@@ -1,0 +1,1025 @@
+
+Errors (22400)
+=============
+   Frequency      Group           Protocol  Summary
+       22345  Malformed               X2AP  Malformed Packet (Exception occurred)
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found bf4910fb
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 9c5d9d22
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found b15f9a07
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 17d2a41d
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 9982860a
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 71f4b1ef
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 30744846
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found b104f4ee
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 7a2c78c6
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 5328d21d
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 8d006f3c
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 8e624161
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 06ebdec6
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found f06566a4
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 80c13fec
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 39193e79
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found a7144094
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 86417c99
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 20982938
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 618b0931
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 8e8ebf84
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found d500bfa7
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found cc2643b8
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 8c9a19b6
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found dcd5e92e
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 11f5790f
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 4433b399
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found f74982a2
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found d0b601b8
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 4054317d
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 0f1f6600
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 9afc7ca5
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found d8e5eb81
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found ddf38861
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 12a4327b
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found a46ca6ca
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 7fe53cf3
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found c89e9213
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 62d581e4
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 2c91c839
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 987ba517
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found db7815f7
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 9de7fe44
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found f6a2bd2f
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 0b590135
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found d0031848
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 2dde538d
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found d0baa32f
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found b521eb80
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 1e6b9b39
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 737622ed
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found dbb7bd02
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 12560ae3
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found e4e8f69a
+           1   Sequence            PDCP-NR  MAC-I Digest wrong - calculated 00000000 but found 3de9b39f
+
+Warns (458)
+=============
+   Frequency      Group           Protocol  Summary
+           9   Sequence                TCP  ACKed segment that wasn't captured (common at capture start)
+         111   Sequence                TCP  D-SACK Sequence
+          24   Sequence                TCP  Previous segment(s) not captured (common at capture start)
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 2418
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 2419
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 3547
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 3549
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 3553
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 3555
+          13   Sequence                TCP  This frame is a (suspected) out-of-order segment
+         208   Sequence                TCP  Connection reset (RST)
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 5071
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 5073
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 5085
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 5087
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 5677
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 5678
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 5682
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 5681
+           4   Protocol               mDNS  DNS query retransmission. Original request in frame 15465
+           4   Sequence           ARP/RARP  Duplicate IP address configured (192.168.0.120)
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 27870
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 27871
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 27874
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 27876
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 31036
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 31038
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 31072
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 31074
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 37956
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 37958
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 37962
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 37964
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 38766
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 38768
+           2   Protocol               mDNS  DNS response retransmission. Original response in frame 38769
+           2   Protocol               mDNS  DNS response retransmission. Original response in frame 38772
+           2   Protocol               mDNS  DNS query retransmission. Original request in frame 39615
+           2   Protocol               mDNS  DNS query retransmission. Original request in frame 39614
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 41076
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 41078
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 54087
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 54088
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 54091
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 54093
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 55508
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 55510
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 55526
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 55528
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 57156
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 57158
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 57162
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 57164
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 57209
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 57210
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 57213
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 57215
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 64374
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 64377
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 73288
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 73290
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 73298
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 73300
+           3   Protocol                DNS  DNS query retransmission. Original request in frame 76389
+           3   Protocol                DNS  DNS query retransmission. Original request in frame 76391
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 76393
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 77690
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 77692
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 79352
+           1   Protocol                DNS  DNS query retransmission. Original request in frame 79354
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 79358
+           1   Protocol                DNS  DNS response retransmission. Original response in frame 79360
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 80131
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 80132
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 80135
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 80136
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 83010
+           1   Protocol               mDNS  DNS query retransmission. Original request in frame 83011
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 83014
+           1   Protocol               mDNS  DNS response retransmission. Original response in frame 83016
+           4   Protocol               mDNS  DNS query retransmission. Original request in frame 92609
+
+Notes (20207)
+=============
+   Frequency      Group           Protocol  Summary
+        4899   Sequence                TCP  This frame is a (suspected) retransmission
+        3268   Sequence                TCP  Ambiguous ACK following Karn's definition
+        3001   Sequence                TCP  Duplicate ACK (#1)
+        7232   Protocol                TCP  This packet's length exceeds MSS (common with TSO or incomplete conversations)
+          79   Sequence               IPv4  "Time To Live" != 255 for a packet sent to the Local Network Control Block (see RFC 3171)
+         135   Sequence                TCP  TCP keep-alive segment
+         124   Sequence                TCP  ACK to a TCP keep-alive segment
+         229   Sequence                TCP  Duplicate ACK (#2)
+         354   Sequence                TCP  This frame is a (suspected) fast retransmission
+         131   Sequence                TCP  This frame initiates the connection closing
+         121   Sequence                TCP  This frame undergoes the connection closing
+         169   Sequence               QUIC  This QUIC frame has a reused stream offset (retransmission?)
+          11   Sequence                TCP  Duplicate ACK (#3)
+           2   Sequence                TCP  Partial Acknowledgement of a segment
+         175   Sequence               IPv4  "Time To Live" only 1
+         205   Protocol                TCP  The SYN packet does not contain a SACK PERM option
+          25   Response               ICMP  Type indicates an error
+           5   Sequence                TCP  Duplicate ACK (#4)
+           5   Sequence                TCP  Duplicate ACK (#5)
+           3   Sequence                TCP  Duplicate ACK (#6)
+           3   Sequence                TCP  Duplicate ACK (#7)
+           3   Sequence                TCP  Duplicate ACK (#8)
+           3   Sequence                TCP  Duplicate ACK (#9)
+           2   Sequence                TCP  Duplicate ACK (#10)
+           2   Sequence                TCP  Duplicate ACK (#11)
+           2   Sequence                TCP  Duplicate ACK (#12)
+           2   Sequence                TCP  Duplicate ACK (#13)
+           2   Sequence                TCP  Duplicate ACK (#14)
+           2   Sequence                TCP  Duplicate ACK (#15)
+           2   Sequence                TCP  Duplicate ACK (#16)
+           2   Sequence                TCP  Duplicate ACK (#17)
+           2   Sequence                TCP  Duplicate ACK (#18)
+           2   Sequence                TCP  Duplicate ACK (#19)
+           5   Protocol                TCP  The acknowledgment number field is nonzero while the ACK flag is not set
+
+Chats (785)
+=============
+   Frequency      Group           Protocol  Summary
+          90   Sequence                TCP  Connection establish request (SYN): server port 8080
+          90   Sequence                TCP  Connection establish acknowledge (SYN+ACK): server port 8080
+         252   Sequence                TCP  Connection finish (FIN)
+          50   Sequence                TCP  Connection establish request (SYN): server port 443
+          25 Deprecated                TLS  This legacy_version field MUST be ignored. The supported_versions extension is present and MUST be used instead.
+          25   Sequence                TCP  Connection establish acknowledge (SYN+ACK): server port 443
+          32   Sequence                TCP  Connection establish request (SYN): server port 21114
+          20   Sequence                TCP  Connection establish request (SYN): server port 80
+          20   Sequence                TCP  Connection establish request (SYN): server port 3306
+          40   Sequence                TCP  Connection establish request (SYN): server port 22
+          20   Sequence                TCP  Connection establish request (SYN): server port 110
+          20   Sequence                TCP  Connection establish request (SYN): server port 21
+          20   Sequence                TCP  Connection establish request (SYN): server port 53
+          20   Sequence                TCP  Connection establish request (SYN): server port 25
+          40   Sequence                TCP  Connection establish acknowledge (SYN+ACK): server port 22
+          20   Sequence                TCP  Connection establish request (SYN): server port 23
+           1   Sequence                TCP  Connection establish request (SYN): server port 21116
+
+===============================
+| IO Statistics               |
+|                             |
+| Duration: 55.861000 secs    |
+| Interval: 10 secs           |
+|                             |
+| Col  1: Frames and bytes    |
+|-----------------------------|
+|          |1                 |
+| Interval | Frames |  Bytes  |
+|-----------------------------|
+|  0 <> 10 |  17177 | 4737440 |
+| 10 <> 20 |  17421 | 4975040 |
+| 20 <> 30 |  17008 | 4750439 |
+| 30 <> 40 |  17257 | 5028633 |
+| 40 <> 50 |  17275 | 4911164 |
+| 50 <> Dur|  10109 | 2763576 |
+===============================
+================================================================================
+UDP Conversations
+Filter:<No Filter>
+                                                           |       <-      | |       ->      | |     Total     |    Relative    |   Duration   |
+                                                           | Frames  Bytes | | Frames  Bytes | | Frames  Bytes |      Start     |              |
+172.31.0.1:2152            <-> 172.31.0.134:2152             3022 419 kB       3894 3476 kB      6916 3895 kB       0.024646000        55.6651
+192.168.0.3:2152           <-> 192.168.0.1:2152              1511 202 kB       1947 1728 kB      3458 1930 kB       0.024585000        55.6652
+fe80::87d5:ddf2:cc3b:5777:5353 <-> ff02::fb:5353                    0 0 bytes        62 13 kB          62 13 kB         0.400336000        48.0335
+193.1.132.217:5353         <-> 224.0.0.251:5353                 0 0 bytes        62 12 kB          62 12 kB         0.400338000        48.0335
+0.0.0.0:68                 <-> 255.255.255.255:67               0 0 bytes        42 14 kB          42 14 kB         1.587972000        53.7705
+172.31.0.133:36171         <-> 172.31.0.134:8805               18 1080 bytes      18 1080 bytes      36 2160 bytes     2.519010000        50.0022
+172.16.0.2:59558           <-> 137.43.116.17:53                16 5546 bytes      18 2318 bytes      34 7864 bytes     2.244569000        42.7961
+172.31.0.134:59558         <-> 137.43.116.17:53                16 4842 bytes      18 1526 bytes      34 6368 bytes     2.244619000        42.7960
+fe80::127c:61ff:fe4b:5e5f:5353 <-> ff02::fb:5353                    0 0 bytes        21 6412 bytes      21 6412 bytes     9.071286000        46.6967
+172.16.0.2:41641           <-> 193.1.132.217:41641              0 0 bytes        20 4240 bytes      20 4240 bytes     0.439682000        50.8202
+172.31.0.134:41641         <-> 193.1.132.217:41641              0 0 bytes        20 3360 bytes      20 3360 bytes     0.439711000        50.8203
+172.18.139.27:59558        <-> 137.43.116.17:53                 8 2421 bytes       9 763 bytes      17 3184 bytes     2.244631000        42.7960
+172.16.0.2:54880           <-> 209.85.203.95:443                0 0 bytes        12 16 kB          12 16 kB         2.265226000         4.0099
+172.31.0.134:54880         <-> 209.85.203.95:443                0 0 bytes        12 15 kB          12 15 kB         2.265245000         4.0099
+172.18.139.27:41641        <-> 193.1.132.217:41641              0 0 bytes        10 1680 bytes      10 1680 bytes     0.439714000        50.8203
+172.18.139.27:37528        <-> 82.155.115.149:21116             0 0 bytes         9 522 bytes       9 522 bytes     2.672080000        28.9998
+172.16.0.2:41641           <-> 176.58.93.154:3478               4 480 bytes       4 512 bytes       8 992 bytes    22.524655000        24.0126
+172.16.0.2:41641           <-> 176.58.92.254:3478               4 480 bytes       4 512 bytes       8 992 bytes    22.524666000        24.0055
+172.16.0.2:41641           <-> 176.58.90.104:3478               4 480 bytes       4 512 bytes       8 992 bytes    22.524671000        24.0114
+172.31.0.134:41641         <-> 176.58.93.154:3478               4 304 bytes       4 336 bytes       8 640 bytes    22.524694000        24.0125
+172.31.0.134:41641         <-> 176.58.92.254:3478               4 304 bytes       4 336 bytes       8 640 bytes    22.524711000        24.0054
+172.31.0.134:41641         <-> 176.58.90.104:3478               4 304 bytes       4 336 bytes       8 640 bytes    22.524719000        24.0113
+193.1.132.216:5353         <-> 224.0.0.251:5353                 0 0 bytes         7 4222 bytes       7 4222 bytes     9.188555000        44.8994
+fe80::1262:e5ff:fe5f:b687:5353 <-> ff02::fb:5353                    0 0 bytes         7 4362 bytes       7 4362 bytes     9.188589000        44.8995
+172.18.139.27:56830        <-> 82.155.115.149:21116             0 0 bytes         7 406 bytes       7 406 bytes    35.675741000        19.9966
+172.18.139.27:54880        <-> 209.85.203.95:443                0 0 bytes         6 7764 bytes       6 7764 bytes     2.265252000         4.0099
+193.1.133.213:52382        <-> 224.0.0.251:5353                 0 0 bytes         5 495 bytes       5 495 bytes     5.671602000         4.2954
+fe80::215:5dff:fe6b:d90c:59718 <-> ff02::fb:5353                    0 0 bytes         5 595 bytes       5 595 bytes     5.671602000         4.2954
+127.0.0.1:48737            <-> 127.0.0.53:53                    2 541 bytes       2 174 bytes       4 715 bytes     2.631195000         0.0026
+193.1.132.2:67             <-> 255.255.255.255:68               0 0 bytes         4 1376 bytes       4 1376 bytes     7.131009000        44.9898
+193.1.132.3:67             <-> 255.255.255.255:68               0 0 bytes         4 1376 bytes       4 1376 bytes     7.134853000        44.9862
+127.0.0.1:46959            <-> 127.0.0.53:53                    2 616 bytes       2 168 bytes       4 784 bytes     8.114116000         0.0003
+127.0.0.1:34656            <-> 127.0.0.53:53                    2 483 bytes       2 172 bytes       4 655 bytes     8.114148000         0.0030
+127.0.0.1:40422            <-> 127.0.0.53:53                    2 1016 bytes       2 194 bytes       4 1210 bytes     8.114205000         0.0037
+127.0.0.1:58230            <-> 127.0.0.53:53                    2 1016 bytes       2 194 bytes       4 1210 bytes     8.114415000         0.0036
+127.0.0.1:50891            <-> 127.0.0.53:53                    2 483 bytes       2 172 bytes       4 655 bytes     8.118723000         0.0029
+127.0.0.1:39778            <-> 127.0.0.53:53                    2 616 bytes       2 168 bytes       4 784 bytes     9.971373000         0.0003
+127.0.0.1:50321            <-> 127.0.0.53:53                    2 483 bytes       2 172 bytes       4 655 bytes     9.971393000         0.0032
+127.0.0.1:40818            <-> 127.0.0.53:53                    2 1044 bytes       2 194 bytes       4 1238 bytes     9.971442000         0.0007
+127.0.0.1:53066            <-> 127.0.0.53:53                    2 1044 bytes       2 194 bytes       4 1238 bytes     9.971676000         0.0008
+127.0.0.1:38166            <-> 127.0.0.53:53                    2 483 bytes       2 172 bytes       4 655 bytes     9.975730000         0.0027
+127.0.0.1:34911            <-> 127.0.0.53:53                    2 541 bytes       2 174 bytes       4 715 bytes    14.639893000         0.0025
+172.18.139.27:41641        <-> 176.58.93.154:3478               2 152 bytes       2 168 bytes       4 320 bytes    22.524705000        24.0125
+172.18.139.27:41641        <-> 176.58.92.254:3478               2 152 bytes       2 168 bytes       4 320 bytes    22.524715000        24.0054
+172.18.139.27:41641        <-> 176.58.90.104:3478               2 152 bytes       2 168 bytes       4 320 bytes    22.524723000        24.0113
+172.16.0.2:65318           <-> 172.16.0.1:5351                  0 0 bytes         4 380 bytes       4 380 bytes    22.534652000         0.0051
+172.16.0.2:65319           <-> 172.16.0.1:5351                  0 0 bytes         4 404 bytes       4 404 bytes    22.539734000         0.0000
+172.16.0.2:65319           <-> 239.255.255.250:1900             0 0 bytes         4 814 bytes       4 814 bytes    22.539767000         0.0000
+127.0.0.1:60833            <-> 127.0.0.53:53                    2 541 bytes       2 174 bytes       4 715 bytes    26.641111000         0.0164
+127.0.0.1:37517            <-> 127.0.0.53:53                    2 541 bytes       2 174 bytes       4 715 bytes    34.672047000         0.0026
+127.0.0.1:60693            <-> 127.0.0.53:53                    2 541 bytes       2 174 bytes       4 715 bytes    35.672986000         0.0027
+127.0.0.1:57642            <-> 127.0.0.53:53                    2 541 bytes       2 174 bytes       4 715 bytes    44.630781000         0.0057
+172.16.0.2:55525           <-> 137.43.116.17:53                 2 1198 bytes       2 280 bytes       4 1478 bytes    45.924796000         0.0027
+172.31.0.134:55525         <-> 137.43.116.17:53                 2 1110 bytes       2 192 bytes       4 1302 bytes    45.924842000         0.0027
+172.16.0.2:55527           <-> 172.16.0.1:5351                  0 0 bytes         4 380 bytes       4 380 bytes    46.524787000         0.0051
+172.16.0.2:55528           <-> 172.16.0.1:5351                  0 0 bytes         4 404 bytes       4 404 bytes    46.529858000         0.0000
+172.16.0.2:55528           <-> 239.255.255.250:1900             0 0 bytes         4 814 bytes       4 814 bytes    46.529872000         0.0000
+172.16.0.2:41641           <-> 176.58.92.144:3478               2 240 bytes       2 256 bytes       4 496 bytes    46.549790000         0.0130
+172.31.0.134:41641         <-> 176.58.92.144:3478               2 152 bytes       2 168 bytes       4 320 bytes    46.549810000         0.0130
+127.0.0.1:59184            <-> 127.0.0.53:53                    2 616 bytes       2 168 bytes       4 784 bytes    53.113974000         0.0003
+127.0.0.1:49548            <-> 127.0.0.53:53                    2 483 bytes       2 172 bytes       4 655 bytes    53.114022000         0.0028
+127.0.0.1:42140            <-> 127.0.0.53:53                    2 1016 bytes       2 194 bytes       4 1210 bytes    53.114066000         0.0036
+127.0.0.1:33864            <-> 127.0.0.53:53                    2 1016 bytes       2 194 bytes       4 1210 bytes    53.114334000         0.0034
+127.0.0.1:42441            <-> 127.0.0.53:53                    2 483 bytes       2 172 bytes       4 655 bytes    53.118721000         0.0029
+127.0.0.1:50785            <-> 127.0.0.53:53                    2 616 bytes       2 168 bytes       4 784 bytes    54.772280000         0.0003
+127.0.0.1:47738            <-> 127.0.0.53:53                    2 483 bytes       2 172 bytes       4 655 bytes    54.772313000         0.0033
+127.0.0.1:51538            <-> 127.0.0.53:53                    2 1044 bytes       2 194 bytes       4 1238 bytes    54.772374000         0.0007
+127.0.0.1:44526            <-> 127.0.0.53:53                    2 1044 bytes       2 194 bytes       4 1238 bytes    54.772574000         0.0008
+127.0.0.1:51185            <-> 127.0.0.53:53                    2 483 bytes       2 172 bytes       4 655 bytes    54.776364000         0.0026
+193.1.133.213:5353         <-> 224.0.0.251:5353                 0 0 bytes         3 1329 bytes       3 1329 bytes     1.544922000         0.0001
+fe80::215:5dff:fe6b:d90c:5353 <-> ff02::fb:5353                    0 0 bytes         3 1389 bytes       3 1389 bytes     1.544923000         0.0001
+193.1.133.114:137          <-> 193.1.133.255:137                0 0 bytes         3 282 bytes       3 282 bytes    40.836885000         1.5123
+172.18.139.27:56287        <-> 137.43.116.19:53                 1 147 bytes       1 87 bytes        2 234 bytes     2.631421000         0.0024
+127.0.0.1:37722            <-> 127.0.0.53:53                    1 382 bytes       1 91 bytes        2 473 bytes     8.114044000         0.0002
+127.0.0.1:57222            <-> 127.0.0.53:53                    1 284 bytes       1 84 bytes        2 368 bytes     8.114092000         0.0002
+172.18.139.27:40712        <-> 137.43.116.19:53                 1 143 bytes       1 86 bytes        2 229 bytes     8.114557000         0.0025
+172.18.139.27:38808        <-> 137.43.116.19:53                 1 518 bytes       1 97 bytes        2 615 bytes     8.114588000         0.0029
+172.18.139.27:51801        <-> 137.43.116.19:53                 1 530 bytes       1 97 bytes        2 627 bytes     8.114614000         0.0029
+172.18.139.27:55785        <-> 137.43.116.19:53                 1 143 bytes       1 86 bytes        2 229 bytes     8.118919000         0.0027
+172.18.139.27:55723        <-> 137.43.116.19:53                 1 609 bytes       1 102 bytes       2 711 bytes     9.125690000         0.0027
+fe80::da9e:f3ff:fe41:71fc:5353 <-> ff02::fb:5353                    0 0 bytes         2 356 bytes       2 356 bytes     9.146345000        44.8465
+127.0.0.1:55049            <-> 127.0.0.53:53                    1 139 bytes       1 97 bytes        2 236 bytes     9.290892000         0.0027
+172.18.139.27:55060        <-> 137.43.116.19:53                 1 197 bytes       1 97 bytes        2 294 bytes     9.291062000         0.0024
+127.0.0.1:47168            <-> 127.0.0.53:53                    1 141 bytes       1 99 bytes        2 240 bytes     9.293613000         0.0024
+172.18.139.27:52178        <-> 137.43.116.19:53                 1 175 bytes       1 99 bytes        2 274 bytes     9.293685000         0.0022
+127.0.0.1:33701            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes     9.295992000         0.0023
+172.18.139.27:39751        <-> 137.43.116.19:53                 1 195 bytes       1 96 bytes        2 291 bytes     9.296032000         0.0022
+127.0.0.1:56328            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes     9.298311000         0.0022
+172.18.139.27:50829        <-> 137.43.116.19:53                 1 172 bytes       1 96 bytes        2 268 bytes     9.298356000         0.0021
+127.0.0.1:57856            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes     9.300525000         0.0022
+172.18.139.27:51843        <-> 137.43.116.19:53                 1 195 bytes       1 96 bytes        2 291 bytes     9.300563000         0.0021
+127.0.0.1:35416            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.302768000         0.0002
+127.0.0.1:40879            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.302966000         0.0001
+127.0.0.1:56561            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.303138000         0.0001
+127.0.0.1:40414            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.303304000         0.0001
+127.0.0.1:58837            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.303466000         0.0001
+127.0.0.1:43394            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.303626000         0.0001
+127.0.0.1:53374            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.303786000         0.0001
+127.0.0.1:53050            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.303935000         0.0001
+127.0.0.1:54803            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.304074000         0.0001
+127.0.0.1:41886            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.304212000         0.0001
+127.0.0.1:57489            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.304349000         0.0001
+127.0.0.1:40140            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.304486000         0.0001
+127.0.0.1:53352            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.304624000         0.0001
+127.0.0.1:37640            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.304756000         0.0001
+127.0.0.1:60646            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.304892000         0.0001
+127.0.0.1:44621            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.305034000         0.0001
+127.0.0.1:47863            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.305176000         0.0001
+127.0.0.1:52218            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.305308000         0.0001
+127.0.0.1:52579            <-> 127.0.0.53:53                    1 139 bytes       1 97 bytes        2 236 bytes     9.306138000         0.0024
+172.18.139.27:58181        <-> 137.43.116.19:53                 1 197 bytes       1 97 bytes        2 294 bytes     9.306215000         0.0022
+127.0.0.1:41915            <-> 127.0.0.53:53                    1 141 bytes       1 99 bytes        2 240 bytes     9.308544000         0.0022
+172.18.139.27:37638        <-> 137.43.116.19:53                 1 175 bytes       1 99 bytes        2 274 bytes     9.308589000         0.0021
+127.0.0.1:39157            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes     9.310827000         0.0023
+172.18.139.27:55394        <-> 137.43.116.19:53                 1 195 bytes       1 96 bytes        2 291 bytes     9.310865000         0.0022
+127.0.0.1:52440            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes     9.313133000         0.0022
+172.18.139.27:47479        <-> 137.43.116.19:53                 1 172 bytes       1 96 bytes        2 268 bytes     9.313170000         0.0021
+127.0.0.1:36917            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes     9.315366000         0.0023
+172.18.139.27:43067        <-> 137.43.116.19:53                 1 195 bytes       1 96 bytes        2 291 bytes     9.315408000         0.0022
+127.0.0.1:36268            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.317694000         0.0001
+127.0.0.1:51557            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.317841000         0.0001
+127.0.0.1:57776            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.317987000         0.0001
+127.0.0.1:34267            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.318124000         0.0001
+127.0.0.1:51623            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.318265000         0.0001
+127.0.0.1:39154            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.318402000         0.0001
+127.0.0.1:35730            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.318536000         0.0001
+127.0.0.1:42622            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.318669000         0.0001
+127.0.0.1:46944            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.318808000         0.0001
+127.0.0.1:38151            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.318962000         0.0001
+127.0.0.1:37301            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.319100000         0.0001
+127.0.0.1:47602            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.319238000         0.0001
+127.0.0.1:56672            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.319380000         0.0001
+127.0.0.1:45380            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.319513000         0.0001
+127.0.0.1:56464            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.319647000         0.0001
+127.0.0.1:47309            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.319777000         0.0001
+127.0.0.1:55700            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.319918000         0.0001
+127.0.0.1:34109            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes     9.320067000         0.0001
+127.0.0.1:53471            <-> 127.0.0.53:53                    1 382 bytes       1 91 bytes        2 473 bytes     9.971197000         0.0002
+127.0.0.1:38665            <-> 127.0.0.53:53                    1 284 bytes       1 84 bytes        2 368 bytes     9.971336000         0.0002
+172.18.139.27:53602        <-> 137.43.116.19:53                 1 143 bytes       1 86 bytes        2 229 bytes     9.971825000         0.0026
+172.18.139.27:51187        <-> 137.43.116.19:53                 1 143 bytes       1 86 bytes        2 229 bytes     9.975963000         0.0025
+172.18.139.27:36258        <-> 137.43.116.19:53                 1 147 bytes       1 87 bytes        2 234 bytes    14.640174000         0.0022
+193.1.133.213:41799        <-> 224.0.0.251:5353                 0 0 bytes         2 200 bytes       2 200 bytes    15.672093000         0.4036
+fe80::215:5dff:fe6b:d90c:45786 <-> ff02::fb:5353                    0 0 bytes         2 240 bytes       2 240 bytes    15.672146000         0.4036
+127.0.0.1:36196            <-> 127.0.0.53:53                    1 139 bytes       1 97 bytes        2 236 bytes    17.112705000         0.0023
+172.18.139.27:47394        <-> 137.43.116.19:53                 1 197 bytes       1 97 bytes        2 294 bytes    17.112823000         0.0021
+127.0.0.1:52507            <-> 127.0.0.53:53                    1 141 bytes       1 99 bytes        2 240 bytes    17.115018000         0.0029
+172.18.139.27:39137        <-> 137.43.116.19:53                 1 175 bytes       1 99 bytes        2 274 bytes    17.115066000         0.0028
+127.0.0.1:56205            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes    17.117979000         0.0024
+172.18.139.27:34548        <-> 137.43.116.19:53                 1 195 bytes       1 96 bytes        2 291 bytes    17.118019000         0.0022
+127.0.0.1:40677            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes    17.120366000         0.0022
+172.18.139.27:41606        <-> 137.43.116.19:53                 1 172 bytes       1 96 bytes        2 268 bytes    17.120408000         0.0021
+127.0.0.1:51764            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes    17.122579000         0.0023
+172.18.139.27:36395        <-> 137.43.116.19:53                 1 195 bytes       1 96 bytes        2 291 bytes    17.122619000         0.0022
+127.0.0.1:40239            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.124970000         0.0002
+127.0.0.1:56680            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.125164000         0.0001
+127.0.0.1:35994            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.125326000         0.0001
+127.0.0.1:43476            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.125478000         0.0001
+127.0.0.1:46788            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.125634000         0.0001
+127.0.0.1:48801            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.125788000         0.0001
+127.0.0.1:53747            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.125944000         0.0001
+127.0.0.1:54718            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.126106000         0.0001
+127.0.0.1:38507            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.126259000         0.0001
+127.0.0.1:49276            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.126411000         0.0001
+127.0.0.1:47766            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.126568000         0.0001
+127.0.0.1:52597            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.126720000         0.0001
+127.0.0.1:55117            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.126876000         0.0001
+127.0.0.1:47727            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.127039000         0.0001
+127.0.0.1:51075            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.127195000         0.0001
+127.0.0.1:51124            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.127349000         0.0001
+127.0.0.1:36111            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.127501000         0.0001
+127.0.0.1:48427            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    17.127663000         0.0001
+172.16.0.2:65319           <-> 172.16.0.1:1900                  0 0 bytes         2 364 bytes       2 364 bytes    22.539757000         0.0000
+172.18.139.27:50635        <-> 137.43.116.19:53                 1 394 bytes       1 87 bytes        2 481 bytes    26.641229000         0.0161
+172.18.139.27:46932        <-> 137.43.116.19:53                 1 147 bytes       1 87 bytes        2 234 bytes    26.641267000         0.0053
+172.18.139.27:37645        <-> 137.43.116.19:53                 1 147 bytes       1 87 bytes        2 234 bytes    34.672281000         0.0023
+193.1.133.213:57392        <-> 224.0.0.251:5353                 0 0 bytes         2 200 bytes       2 200 bytes    35.672503000         4.4056
+fe80::215:5dff:fe6b:d90c:36198 <-> ff02::fb:5353                    0 0 bytes         2 240 bytes       2 240 bytes    35.672503000         4.4056
+172.18.139.27:53861        <-> 137.43.116.19:53                 1 147 bytes       1 87 bytes        2 234 bytes    35.673210000         0.0024
+172.18.139.27:42541        <-> 137.43.116.19:53                 1 147 bytes       1 87 bytes        2 234 bytes    44.631072000         0.0053
+193.1.133.213:56270        <-> 224.0.0.251:5353                 0 0 bytes         2 171 bytes       2 171 bytes    45.671904000         1.6829
+fe80::215:5dff:fe6b:d90c:56905 <-> ff02::fb:5353                    0 0 bytes         2 211 bytes       2 211 bytes    45.671904000         1.6829
+172.18.139.27:55525        <-> 137.43.116.17:53                 1 555 bytes       1 96 bytes        2 651 bytes    45.924858000         0.0026
+172.16.0.2:55528           <-> 172.16.0.1:1900                  0 0 bytes         2 364 bytes       2 364 bytes    46.529868000         0.0000
+172.18.139.27:41641        <-> 176.58.92.144:3478               1 76 bytes        1 84 bytes        2 160 bytes    46.549821000         0.0130
+127.0.0.1:55862            <-> 127.0.0.53:53                    1 382 bytes       1 91 bytes        2 473 bytes    53.113875000         0.0002
+127.0.0.1:41041            <-> 127.0.0.53:53                    1 284 bytes       1 84 bytes        2 368 bytes    53.113935000         0.0002
+172.18.139.27:51978        <-> 137.43.116.19:53                 1 143 bytes       1 86 bytes        2 229 bytes    53.114378000         0.0024
+172.18.139.27:42798        <-> 137.43.116.19:53                 1 532 bytes       1 97 bytes        2 629 bytes    53.114410000         0.0028
+172.18.139.27:48868        <-> 137.43.116.19:53                 1 544 bytes       1 97 bytes        2 641 bytes    53.114436000         0.0028
+172.18.139.27:42002        <-> 137.43.116.19:53                 1 143 bytes       1 86 bytes        2 229 bytes    53.118939000         0.0026
+127.0.0.1:36724            <-> 127.0.0.53:53                    1 139 bytes       1 97 bytes        2 236 bytes    54.088986000         0.0028
+172.18.139.27:37647        <-> 137.43.116.19:53                 1 197 bytes       1 97 bytes        2 294 bytes    54.089096000         0.0025
+127.0.0.1:33334            <-> 127.0.0.53:53                    1 141 bytes       1 99 bytes        2 240 bytes    54.091879000         0.0022
+172.18.139.27:41231        <-> 137.43.116.19:53                 1 175 bytes       1 99 bytes        2 274 bytes    54.091960000         0.0020
+127.0.0.1:41339            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes    54.094119000         0.0024
+172.18.139.27:42641        <-> 137.43.116.19:53                 1 195 bytes       1 96 bytes        2 291 bytes    54.094163000         0.0023
+127.0.0.1:51032            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes    54.096528000         0.0023
+172.18.139.27:40529        <-> 137.43.116.19:53                 1 172 bytes       1 96 bytes        2 268 bytes    54.096569000         0.0022
+127.0.0.1:56194            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes    54.098831000         0.0022
+172.18.139.27:47375        <-> 137.43.116.19:53                 1 195 bytes       1 96 bytes        2 291 bytes    54.098870000         0.0021
+127.0.0.1:37723            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.101079000         0.0001
+127.0.0.1:49486            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.101257000         0.0001
+127.0.0.1:33286            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.101406000         0.0001
+127.0.0.1:50685            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.101578000         0.0002
+127.0.0.1:46386            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.101795000         0.0002
+127.0.0.1:49763            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.102026000         0.0001
+127.0.0.1:58434            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.102183000         0.0001
+127.0.0.1:59554            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.102328000         0.0001
+127.0.0.1:54453            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.102473000         0.0001
+127.0.0.1:49896            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.102613000         0.0001
+127.0.0.1:58472            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.102750000         0.0001
+127.0.0.1:34859            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.102896000         0.0001
+127.0.0.1:59924            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.103057000         0.0001
+127.0.0.1:59865            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.103206000         0.0001
+127.0.0.1:57049            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.103392000         0.0001
+127.0.0.1:42893            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.103543000         0.0001
+127.0.0.1:38466            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.103697000         0.0001
+127.0.0.1:42465            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.103838000         0.0001
+127.0.0.1:50893            <-> 127.0.0.53:53                    1 139 bytes       1 97 bytes        2 236 bytes    54.104543000         0.0024
+172.18.139.27:34554        <-> 137.43.116.19:53                 1 197 bytes       1 97 bytes        2 294 bytes    54.104607000         0.0022
+127.0.0.1:48563            <-> 127.0.0.53:53                    1 141 bytes       1 99 bytes        2 240 bytes    54.106971000         0.0025
+172.18.139.27:55981        <-> 137.43.116.19:53                 1 175 bytes       1 99 bytes        2 274 bytes    54.107024000         0.0023
+127.0.0.1:53115            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes    54.109454000         0.0026
+172.18.139.27:50928        <-> 137.43.116.19:53                 1 195 bytes       1 96 bytes        2 291 bytes    54.109497000         0.0024
+127.0.0.1:34976            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes    54.112035000         0.0023
+172.18.139.27:43551        <-> 137.43.116.19:53                 1 172 bytes       1 96 bytes        2 268 bytes    54.112075000         0.0022
+127.0.0.1:53861            <-> 127.0.0.53:53                    1 138 bytes       1 96 bytes        2 234 bytes    54.114417000         0.0023
+172.18.139.27:43493        <-> 137.43.116.19:53                 1 195 bytes       1 96 bytes        2 291 bytes    54.114460000         0.0022
+172.18.139.27:49769        <-> 137.43.116.19:53                 1 609 bytes       1 102 bytes       2 711 bytes    54.114766000         0.0024
+127.0.0.1:40851            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.116789000         0.0002
+127.0.0.1:35872            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.117000000         0.0001
+127.0.0.1:47959            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.117188000         0.0002
+127.0.0.1:57812            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.117416000         0.0001
+127.0.0.1:43934            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.117613000         0.0001
+127.0.0.1:50466            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.117803000         0.0002
+127.0.0.1:56427            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.118029000         0.0001
+127.0.0.1:40388            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.118210000         0.0001
+127.0.0.1:43697            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.118387000         0.0001
+127.0.0.1:43833            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.118562000         0.0001
+127.0.0.1:57306            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.118737000         0.0001
+127.0.0.1:53080            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.118917000         0.0001
+127.0.0.1:54879            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.119095000         0.0001
+127.0.0.1:40618            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.119263000         0.0001
+127.0.0.1:48367            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.119428000         0.0001
+127.0.0.1:58947            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.119578000         0.0001
+127.0.0.1:52760            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.119735000         0.0001
+127.0.0.1:34628            <-> 127.0.0.53:53                    1 187 bytes       1 145 bytes       2 332 bytes    54.119889000         0.0002
+127.0.0.1:51383            <-> 127.0.0.53:53                    1 382 bytes       1 91 bytes        2 473 bytes    54.772187000         0.0002
+127.0.0.1:37996            <-> 127.0.0.53:53                    1 284 bytes       1 84 bytes        2 368 bytes    54.772266000         0.0002
+172.18.139.27:59205        <-> 137.43.116.19:53                 1 143 bytes       1 86 bytes        2 229 bytes    54.772697000         0.0029
+172.18.139.27:36473        <-> 137.43.116.19:53                 1 143 bytes       1 86 bytes        2 229 bytes    54.776484000         0.0025
+193.1.133.213:59489        <-> 224.0.0.251:5353                 0 0 bytes         2 162 bytes       2 162 bytes    55.671770000         0.0970
+fe80::215:5dff:fe6b:d90c:59269 <-> ff02::fb:5353                    0 0 bytes         2 202 bytes       2 202 bytes    55.671771000         0.0970
+193.1.133.213:37762        <-> 224.0.0.251:5353                 0 0 bytes         1 88 bytes        1 88 bytes     25.672474000         0.0000
+fe80::215:5dff:fe6b:d90c:49805 <-> ff02::fb:5353                    0 0 bytes         1 108 bytes       1 108 bytes    25.672474000         0.0000
+fe80::d28e:79ff:fec1:918a:5353 <-> ff02::fb:5353                    0 0 bytes         1 117 bytes       1 117 bytes    47.353687000         0.0000
+================================================================================
+================================================================================
+TCP Conversations
+Filter:<No Filter>
+                                                           |       <-      | |       ->      | |     Total     |    Relative    |   Duration   |
+                                                           | Frames  Bytes | | Frames  Bytes | | Frames  Bytes |      Start     |              |
+3.74.210.117:443           <-> 172.31.0.134:56827            2488 2958 kB      1686 113 kB       4174 3071 kB       0.188882000        55.5009
+3.74.210.117:443           <-> 172.16.0.2:56827              2488 3067 kB      1686 187 kB       4174 3255 kB       0.188929000        55.5009
+173.249.31.2:443           <-> 172.18.139.27:33208           1295 88 kB        1585 1317 kB      2880 1405 kB       0.067779000        55.6828
+3.74.210.117:443           <-> 172.18.139.27:56827           1244 1479 kB       843 56 kB        2087 1535 kB       0.188868000        55.5009
+172.16.0.2:56790           <-> 31.13.73.12:443                670 67 kB         680 143 kB       1350 210 kB        0.024646000        55.5202
+172.31.0.134:56790         <-> 31.13.73.12:443                670 37 kB         680 113 kB       1350 151 kB        0.024697000        55.5202
+172.18.139.27:50286        <-> 173.249.31.2:443               587 40 kB         588 389 kB       1175 429 kB        0.051558000        55.7886
+172.18.139.27:56790        <-> 31.13.73.12:443                335 18 kB         340 56 kB         675 75 kB         0.024708000        55.5202
+172.19.0.1:34526           <-> 172.19.0.2:27017               224 25 kB         448 143 kB        672 169 kB        0.051707000        55.7888
+127.0.0.1:39036            <-> 127.0.0.1:27017                112 12 kB         224 71 kB         336 84 kB         0.051673000        55.7889
+209.85.203.101:443         <-> 172.31.0.134:57032              68 37 kB          88 17 kB         156 54 kB         6.362219000        27.4900
+209.85.203.101:443         <-> 172.16.0.2:57032                68 40 kB          88 21 kB         156 61 kB         6.362251000        27.4900
+172.16.0.2:3103            <-> 176.58.92.254:443               58 9888 bytes      70 14 kB         128 24 kB         0.439649000        55.0802
+172.31.0.134:3103          <-> 176.58.92.254:443               58 7336 bytes      70 11 kB         128 19 kB         0.439687000        55.0802
+127.0.0.1:48908            <-> 127.0.0.1:6969                  56 3808 bytes      56 22 kB         112 26 kB         0.051477000        55.0000
+127.0.0.1:33782            <-> 127.0.0.1:6969                  56 3808 bytes      56 22 kB         112 26 kB         0.840069000        55.0000
+172.253.116.95:443         <-> 172.31.0.134:57165              48 23 kB          62 10 kB         110 33 kB         7.485960000        41.5565
+172.253.116.95:443         <-> 172.16.0.2:57165                48 25 kB          62 13 kB         110 38 kB         7.486003000        41.5564
+172.16.0.2:56766           <-> 54.161.152.147:443              42 4908 bytes      68 81 kB         110 86 kB        27.659723000         7.3250
+172.31.0.134:56766         <-> 54.161.152.147:443              42 3060 bytes      68 78 kB         110 81 kB        27.659782000         7.3250
+172.16.0.2:57237           <-> 209.85.203.95:443               42 30 kB          36 10 kB          78 40 kB         2.264626000        45.1175
+209.85.203.101:443         <-> 172.18.139.27:57032             34 18 kB          44 8579 bytes      78 27 kB         6.362212000        27.4900
+172.31.0.134:57237         <-> 209.85.203.95:443               36 28 kB          36 8804 bytes      72 36 kB         2.264658000        45.1175
+172.18.139.27:3103         <-> 176.58.92.254:443               29 3668 bytes      35 5881 bytes      64 9549 bytes     0.439696000        55.0802
+172.31.0.137:37820         <-> 172.31.0.130:8080               27 2241 bytes      33 3138 bytes      60 5379 bytes    20.819405000         0.0004
+172.31.0.134:48694         <-> 172.31.0.130:8080               24 2037 bytes      36 3339 bytes      60 5376 bytes    31.827885000         0.0004
+172.31.0.137:33216         <-> 172.31.0.130:8080               27 2241 bytes      33 3138 bytes      60 5379 bytes    40.819443000         0.0004
+172.31.0.133:34180         <-> 172.31.0.130:8080               27 2241 bytes      33 3135 bytes      60 5376 bytes    41.608516000         0.0005
+172.31.0.137:37232         <-> 172.31.0.130:8080               24 2037 bytes      33 3138 bytes      57 5175 bytes     0.819439000         0.0004
+172.31.0.138:34180         <-> 172.31.0.130:8080               24 2040 bytes      33 3138 bytes      57 5178 bytes     1.076427000         0.0003
+172.31.0.133:42236         <-> 172.31.0.130:8080               24 2037 bytes      33 3135 bytes      57 5172 bytes     1.604611000         0.0004
+172.31.0.134:43208         <-> 172.31.0.130:8080               24 2037 bytes      33 3135 bytes      57 5172 bytes     1.825092000         0.0003
+172.31.0.136:33854         <-> 172.31.0.130:8080               24 2037 bytes      33 3138 bytes      57 5175 bytes     4.108436000         0.0003
+172.31.0.137:56108         <-> 172.31.0.130:8080               24 2037 bytes      33 3138 bytes      57 5175 bytes    10.819405000         0.0004
+172.31.0.138:35294         <-> 172.31.0.130:8080               24 2040 bytes      33 3138 bytes      57 5178 bytes    11.076384000         0.0004
+172.31.0.133:51238         <-> 172.31.0.130:8080               24 2037 bytes      33 3135 bytes      57 5172 bytes    11.605597000         0.0004
+172.31.0.134:53264         <-> 172.31.0.130:8080               24 2037 bytes      33 3135 bytes      57 5172 bytes    11.826006000         0.0004
+172.31.0.136:52986         <-> 172.31.0.130:8080               24 2040 bytes      33 3138 bytes      57 5178 bytes    14.108435000         0.0004
+172.31.0.138:56382         <-> 172.31.0.130:8080               24 2040 bytes      33 3138 bytes      57 5178 bytes    21.076433000         0.0003
+172.31.0.133:48902         <-> 172.31.0.130:8080               24 2037 bytes      33 3135 bytes      57 5172 bytes    21.606594000         0.0004
+172.31.0.134:34024         <-> 172.31.0.130:8080               24 2037 bytes      33 3135 bytes      57 5172 bytes    21.826950000         0.0004
+172.31.0.136:57320         <-> 172.31.0.130:8080               24 2040 bytes      33 3138 bytes      57 5178 bytes    24.108370000         0.0003
+172.31.0.137:47548         <-> 172.31.0.130:8080               24 2037 bytes      33 3138 bytes      57 5175 bytes    30.819417000         0.0004
+172.31.0.138:34860         <-> 172.31.0.130:8080               24 2040 bytes      33 3138 bytes      57 5178 bytes    31.076420000         0.0003
+172.31.0.133:39540         <-> 172.31.0.130:8080               24 2037 bytes      33 3135 bytes      57 5172 bytes    31.607548000         0.0004
+172.31.0.136:60728         <-> 172.31.0.130:8080               24 2040 bytes      33 3138 bytes      57 5178 bytes    34.108432000         0.0003
+172.31.0.138:54670         <-> 172.31.0.130:8080               24 2040 bytes      33 3138 bytes      57 5178 bytes    41.076486000         0.0004
+172.31.0.134:44832         <-> 172.31.0.130:8080               24 2037 bytes      33 3135 bytes      57 5172 bytes    41.828813000         0.0004
+172.31.0.136:36128         <-> 172.31.0.130:8080               24 2037 bytes      33 3138 bytes      57 5175 bytes    44.108466000         0.0003
+172.31.0.137:44838         <-> 172.31.0.130:8080               24 2037 bytes      33 3138 bytes      57 5175 bytes    50.819409000         0.0004
+172.31.0.138:43066         <-> 172.31.0.130:8080               24 2040 bytes      33 3138 bytes      57 5178 bytes    51.076358000         0.0004
+172.31.0.133:39976         <-> 172.31.0.130:8080               24 2037 bytes      33 3135 bytes      57 5172 bytes    51.609544000         0.0004
+172.31.0.134:49902         <-> 172.31.0.130:8080               24 2037 bytes      33 3135 bytes      57 5172 bytes    51.829741000         0.0004
+172.31.0.136:51312         <-> 172.31.0.130:8080               24 2037 bytes      33 3138 bytes      57 5175 bytes    54.108428000         0.0003
+172.16.0.2:57251           <-> 209.85.203.94:443               26 8886 bytes      30 11 kB          56 20 kB        18.292177000         0.1049
+172.253.116.95:443         <-> 172.18.139.27:57165             24 11 kB          31 5270 bytes      55 16 kB         7.485949000        41.5565
+172.18.139.27:56766        <-> 54.161.152.147:443              21 1530 bytes      34 39 kB          55 40 kB        27.659798000         7.3250
+172.31.0.134:57251         <-> 209.85.203.94:443               24 7630 bytes      30 10 kB          54 17 kB        18.292200000         0.1049
+172.16.0.2:56844           <-> 3.74.210.117:443                20 2144 bytes      20 2054 bytes      40 4198 bytes     0.464528000        44.2752
+172.31.0.134:56844         <-> 3.74.210.117:443                20 1264 bytes      20 1174 bytes      40 2438 bytes     0.464546000        44.2752
+172.16.0.2:57264           <-> 34.196.238.251:443              20 12 kB          18 3758 bytes      38 15 kB        33.419702000         0.7000
+172.16.0.2:57273           <-> 34.120.177.193:443              20 11 kB          18 7828 bytes      38 19 kB        45.059823000         0.1900
+172.31.0.134:57273         <-> 34.120.177.193:443              20 10 kB          18 7036 bytes      38 17 kB        45.059860000         0.1900
+172.19.0.1:45208           <-> 172.19.0.2:27017                12 4692 bytes      24 2592 bytes      36 7284 bytes     1.879999000        50.0000
+172.18.139.27:57237        <-> 209.85.203.95:443               18 14 kB          18 4402 bytes      36 18 kB         2.264671000        45.1175
+172.16.0.2:57242           <-> 209.85.202.106:443              20 12 kB          16 5284 bytes      36 18 kB        11.454586000        10.0651
+172.31.0.134:57264         <-> 34.196.238.251:443              18 11 kB          18 2966 bytes      36 14 kB        33.419734000         0.7000
+172.18.139.27:57114        <-> 34.107.221.82:80                13 2612 bytes      21 3972 bytes      34 6584 bytes     5.706947000        49.1130
+172.31.0.134:57242         <-> 209.85.202.106:443              16 11 kB          16 4580 bytes      32 16 kB        11.454634000        10.0651
+172.16.0.2:57033           <-> 209.85.203.94:443               16 1954 bytes      14 3100 bytes      30 5054 bytes    18.274732000         0.0480
+172.31.0.134:57033         <-> 209.85.203.94:443               16 1250 bytes      14 2484 bytes      30 3734 bytes    18.274782000         0.0479
+3.74.210.117:443           <-> 172.31.0.134:56828              14 792 bytes      14 880 bytes      28 1672 bytes     0.090809000        45.9327
+3.74.210.117:443           <-> 172.16.0.2:56828                14 1408 bytes      14 1496 bytes      28 2904 bytes     0.090841000        45.9327
+172.18.139.27:57251        <-> 209.85.203.94:443               12 3815 bytes      15 5109 bytes      27 8924 bytes    18.292209000         0.1048
+172.18.139.27:57784        <-> 195.181.165.139:443             12 816 bytes      12 816 bytes      24 1632 bytes     3.146941000        51.5239
+172.19.0.2:27017           <-> 172.19.0.1:45194                12 816 bytes      12 4692 bytes      24 5508 bytes     4.129004000        50.0500
+172.16.0.2:56803           <-> 31.13.73.18:443                 10 1856 bytes      12 4302 bytes      22 6158 bytes     2.994653000         0.1949
+172.31.0.134:56803         <-> 31.13.73.18:443                 10 1416 bytes      12 3774 bytes      22 5190 bytes     2.994695000         0.1949
+172.18.139.27:57130        <-> 34.107.221.82:80                 9 1804 bytes      13 2088 bytes      22 3892 bytes     5.706941000        49.0691
+172.18.139.27:56844        <-> 3.74.210.117:443                10 632 bytes      10 587 bytes      20 1219 bytes     0.464550000        44.2752
+172.16.0.2:3175            <-> 31.13.73.49:443                 10 1648 bytes      10 3060 bytes      20 4708 bytes    24.499756000         0.8650
+172.31.0.134:3175          <-> 31.13.73.49:443                 10 1208 bytes      10 2620 bytes      20 3828 bytes    24.499770000         0.8650
+172.18.139.27:57273        <-> 34.120.177.193:443              10 5322 bytes       9 3518 bytes      19 8840 bytes    45.059872000         0.1900
+127.0.0.1:45896            <-> 127.0.0.1:27017                  6 2346 bytes      12 1296 bytes      18 3642 bytes     1.879968000        50.0001
+172.16.0.2:3032            <-> 192.168.0.10:22                  8 996 bytes      10 1136 bytes      18 2132 bytes     3.285093000         0.1497
+172.31.0.134:3032          <-> 192.168.0.10:22                  8 644 bytes      10 696 bytes      18 1340 bytes     3.285142000         0.1496
+172.16.0.2:3052            <-> 192.168.0.10:22                  8 996 bytes      10 1136 bytes      18 2132 bytes    32.574748000         0.0800
+172.31.0.134:3052          <-> 192.168.0.10:22                  8 644 bytes      10 696 bytes      18 1340 bytes    32.574783000         0.0800
+172.18.139.27:57264        <-> 34.196.238.251:443               9 5623 bytes       9 1483 bytes      18 7106 bytes    33.419744000         0.7000
+172.16.0.2:3082            <-> 192.168.0.10:22                  8 996 bytes      10 1136 bytes      18 2132 bytes    42.914793000         0.0900
+172.31.0.134:3082          <-> 192.168.0.10:22                  8 644 bytes      10 696 bytes      18 1340 bytes    42.914831000         0.0899
+172.18.139.27:51234        <-> 34.107.243.93:443                8 656 bytes       8 672 bytes      16 1328 bytes     8.313977000        46.8099
+172.19.0.1:45196           <-> 172.19.0.2:27017                 8 544 bytes       8 544 bytes      16 1088 bytes     9.802942000        36.3530
+172.18.139.27:57242        <-> 209.85.202.106:443               8 5840 bytes       8 2290 bytes      16 8130 bytes    11.454651000        10.0651
+172.16.0.2:3018            <-> 192.168.0.10:22                  6 772 bytes      10 1136 bytes      16 1908 bytes    22.204646000         0.0850
+172.31.0.134:3018          <-> 192.168.0.10:22                  6 508 bytes      10 696 bytes      16 1204 bytes    22.204700000         0.0850
+172.16.0.2:56865           <-> 31.13.73.12:443                  8 924 bytes       8 924 bytes      16 1848 bytes    24.379653000        30.2352
+172.31.0.134:56865         <-> 31.13.73.12:443                  8 572 bytes       8 572 bytes      16 1144 bytes    24.379681000        30.2352
+172.18.139.27:57033        <-> 209.85.203.94:443                8 625 bytes       7 1242 bytes      15 1867 bytes    18.274786000         0.0479
+3.74.210.117:443           <-> 172.18.139.27:56828              7 396 bytes       7 440 bytes      14 836 bytes     0.090800000        45.9327
+127.0.0.1:27017            <-> 127.0.0.1:45878                  6 408 bytes       6 2346 bytes      12 2754 bytes     4.129047000        50.0500
+127.0.0.1:27017            <-> 127.0.0.1:45886                  6 408 bytes       6 408 bytes      12 816 bytes     9.802950000        30.7200
+172.16.0.2:57042           <-> 172.253.116.102:443              6 770 bytes       6 602 bytes      12 1372 bytes    14.764685000        14.0500
+172.31.0.134:57042         <-> 172.253.116.102:443              6 506 bytes       6 338 bytes      12 844 bytes    14.764727000        14.0500
+172.18.139.27:56803        <-> 31.13.73.18:443                  5 708 bytes       6 1887 bytes      11 2595 bytes     2.994704000         0.1949
+172.16.0.2:57211           <-> 174.129.36.23:443                4 1424 bytes       6 2354 bytes      10 3778 bytes    18.619682000         0.2550
+172.31.0.134:57211         <-> 174.129.36.23:443                4 1248 bytes       6 2090 bytes      10 3338 bytes    18.619702000         0.2550
+31.13.73.18:443            <-> 172.31.0.134:57193               4 224 bytes       6 520 bytes      10 744 bytes    18.881228000         5.0287
+31.13.73.18:443            <-> 172.16.0.2:57193                 4 400 bytes       6 784 bytes      10 1184 bytes    18.881244000         5.0287
+172.18.139.27:52204        <-> 173.249.31.2:443                 6 396 bytes       4 296 bytes      10 692 bytes    20.555939000         4.4223
+172.18.139.27:3175         <-> 31.13.73.49:443                  5 604 bytes       5 1310 bytes      10 1914 bytes    24.499774000         0.8650
+192.168.0.1:3032           <-> 192.168.0.10:22                  4 322 bytes       5 348 bytes       9 670 bytes     3.285156000         0.1496
+192.168.0.1:3052           <-> 192.168.0.10:22                  4 322 bytes       5 348 bytes       9 670 bytes    32.574796000         0.0800
+192.168.0.1:3082           <-> 192.168.0.10:22                  4 322 bytes       5 348 bytes       9 670 bytes    42.914844000         0.0899
+172.31.0.136:38364         <-> 172.31.0.131:3306                3 303 bytes       6 489 bytes       9 792 bytes    54.105996000         0.0001
+172.18.139.27:57830        <-> 82.155.115.149:21114             0 0 bytes         8 608 bytes       8 608 bytes     2.633880000        11.2021
+172.16.0.2:56888           <-> 52.28.255.255:443                4 594 bytes       4 402 bytes       8 996 bytes     8.249635000        21.4901
+172.31.0.134:56888         <-> 52.28.255.255:443                4 418 bytes       4 226 bytes       8 644 bytes     8.249686000        21.4901
+172.16.0.2:3193            <-> 54.161.152.147:443               4 448 bytes       4 404 bytes       8 852 bytes     9.864604000        30.2034
+172.31.0.134:3193          <-> 54.161.152.147:443               4 272 bytes       4 228 bytes       8 500 bytes     9.864632000        30.2034
+172.18.139.27:55626        <-> 82.155.115.149:21114             0 0 bytes         8 608 bytes       8 608 bytes    14.642421000        11.2255
+192.168.0.1:3018           <-> 192.168.0.10:22                  3 254 bytes       5 348 bytes       8 602 bytes    22.204717000         0.0850
+172.18.139.27:56865        <-> 31.13.73.12:443                  4 286 bytes       4 286 bytes       8 572 bytes    24.379687000        30.2352
+172.16.0.2:3109            <-> 162.254.196.79:443               4 400 bytes       4 616 bytes       8 1016 bytes    25.164716000        27.1215
+172.31.0.134:3109          <-> 162.254.196.79:443               4 224 bytes       4 440 bytes       8 664 bytes    25.164763000        27.1214
+172.16.0.2:56866           <-> 31.13.73.12:443                  4 462 bytes       4 462 bytes       8 924 bytes    26.109683000         0.1300
+172.31.0.134:56866         <-> 31.13.73.12:443                  4 286 bytes       4 286 bytes       8 572 bytes    26.109712000         0.1300
+172.18.139.27:38014        <-> 82.155.115.149:21114             0 0 bytes         8 608 bytes       8 608 bytes    26.657539000        11.1784
+172.18.139.27:60496        <-> 82.155.115.149:21114             0 0 bytes         8 608 bytes       8 608 bytes    44.636496000        11.1825
+172.16.0.2:3028            <-> 192.168.0.10:22                  2 208 bytes       4 408 bytes       6 616 bytes     3.159754000         0.0155
+172.31.0.134:3028          <-> 192.168.0.10:22                  2 120 bytes       4 232 bytes       6 352 bytes     3.159765000         0.0155
+172.18.139.27:57042        <-> 172.253.116.102:443              3 253 bytes       3 169 bytes       6 422 bytes    14.764737000        14.0500
+172.16.0.2:3033            <-> 192.168.0.10:22                  2 208 bytes       4 408 bytes       6 616 bytes    22.064714000         0.0199
+172.31.0.134:3033          <-> 192.168.0.10:22                  2 120 bytes       4 232 bytes       6 352 bytes    22.064792000         0.0199
+172.16.0.2:49631           <-> 4.207.247.137:443                2 440 bytes       4 598 bytes       6 1038 bytes    28.319750000         0.0699
+172.31.0.134:49631         <-> 4.207.247.137:443                2 352 bytes       4 422 bytes       6 774 bytes    28.319813000         0.0699
+172.16.0.2:3080            <-> 192.168.0.10:22                  2 208 bytes       4 408 bytes       6 616 bytes    32.429810000         0.0199
+172.31.0.134:3080          <-> 192.168.0.10:22                  2 120 bytes       4 232 bytes       6 352 bytes    32.429888000         0.0199
+172.16.0.2:3012            <-> 192.168.0.10:22                  2 208 bytes       4 408 bytes       6 616 bytes    42.779811000         0.0199
+172.31.0.134:3012          <-> 192.168.0.10:22                  2 120 bytes       4 232 bytes       6 352 bytes    42.779846000         0.0199
+172.18.139.27:57211        <-> 174.129.36.23:443                2 624 bytes       3 1045 bytes       5 1669 bytes    18.619708000         0.2550
+31.13.73.18:443            <-> 172.18.139.27:57193              2 112 bytes       3 260 bytes       5 372 bytes    18.881224000         5.0287
+172.16.0.2:3090            <-> 192.168.0.10:80                  2 200 bytes       2 200 bytes       4 400 bytes     3.009577000         0.0002
+172.31.0.134:3090          <-> 192.168.0.10:80                  2 112 bytes       2 112 bytes       4 224 bytes     3.009604000         0.0002
+172.16.0.2:3090            <-> 192.168.0.10:443                 2 200 bytes       2 208 bytes       4 408 bytes     3.009679000         0.0002
+172.31.0.134:3090          <-> 192.168.0.10:443                 2 112 bytes       2 120 bytes       4 232 bytes     3.009690000         0.0001
+172.16.0.2:3028            <-> 192.168.0.10:80                  2 200 bytes       2 208 bytes       4 408 bytes     3.159647000         0.0003
+172.31.0.134:3028          <-> 192.168.0.10:80                  2 112 bytes       2 120 bytes       4 232 bytes     3.159698000         0.0002
+172.16.0.2:3028            <-> 192.168.0.10:3306                2 200 bytes       2 208 bytes       4 408 bytes     3.159728000         0.0002
+172.31.0.134:3028          <-> 192.168.0.10:3306                2 112 bytes       2 120 bytes       4 232 bytes     3.159739000         0.0001
+172.16.0.2:3028            <-> 192.168.0.10:110                 2 200 bytes       2 208 bytes       4 408 bytes     3.159779000         0.0001
+172.31.0.134:3028          <-> 192.168.0.10:110                 2 112 bytes       2 120 bytes       4 232 bytes     3.159789000         0.0001
+172.16.0.2:3028            <-> 192.168.0.10:21                  2 200 bytes       2 208 bytes       4 408 bytes     3.159802000         0.0001
+172.31.0.134:3028          <-> 192.168.0.10:21                  2 112 bytes       2 120 bytes       4 232 bytes     3.159812000         0.0001
+172.16.0.2:3028            <-> 192.168.0.10:53                  2 200 bytes       2 208 bytes       4 408 bytes     3.159827000         0.0002
+172.31.0.134:3028          <-> 192.168.0.10:53                  2 112 bytes       2 120 bytes       4 232 bytes     3.159838000         0.0001
+172.16.0.2:3028            <-> 192.168.0.10:25                  2 200 bytes       2 208 bytes       4 408 bytes     3.159851000         0.0001
+172.31.0.134:3028          <-> 192.168.0.10:25                  2 112 bytes       2 120 bytes       4 232 bytes     3.159862000         0.0001
+172.16.0.2:3028            <-> 192.168.0.10:23                  2 200 bytes       2 208 bytes       4 408 bytes     3.159994000         0.0001
+172.31.0.134:3028          <-> 192.168.0.10:23                  2 112 bytes       2 120 bytes       4 232 bytes     3.160008000         0.0001
+172.16.0.2:3028            <-> 192.168.0.10:443                 2 200 bytes       2 208 bytes       4 408 bytes     3.160023000         0.0001
+172.31.0.134:3028          <-> 192.168.0.10:443                 2 112 bytes       2 120 bytes       4 232 bytes     3.160034000         0.0001
+172.18.139.27:56888        <-> 52.28.255.255:443                2 209 bytes       2 113 bytes       4 322 bytes     8.249699000        21.4901
+172.18.139.27:3193         <-> 54.161.152.147:443               2 136 bytes       2 114 bytes       4 250 bytes     9.864641000        30.2034
+172.16.0.2:57164           <-> 172.253.116.95:443               2 224 bytes       2 202 bytes       4 426 bytes    13.749624000         0.0028
+172.31.0.134:57164         <-> 172.253.116.95:443               2 136 bytes       2 114 bytes       4 250 bytes    13.749669000         0.0027
+172.16.0.2:57206           <-> 74.125.193.95:443                2 224 bytes       2 202 bytes       4 426 bytes    13.879629000         0.0022
+172.31.0.134:57206         <-> 74.125.193.95:443                2 136 bytes       2 114 bytes       4 250 bytes    13.879671000         0.0021
+172.16.0.2:57114           <-> 172.253.116.94:443               2 224 bytes       2 202 bytes       4 426 bytes    14.779620000         0.0023
+172.31.0.134:57114         <-> 172.253.116.94:443               2 136 bytes       2 114 bytes       4 250 bytes    14.779646000         0.0022
+172.16.0.2:3181            <-> 74.125.193.188:443               2 224 bytes       2 202 bytes       4 426 bytes    17.764660000         0.0021
+172.31.0.134:3181          <-> 74.125.193.188:443               2 136 bytes       2 114 bytes       4 250 bytes    17.764697000         0.0020
+172.16.0.2:3033            <-> 192.168.0.10:110                 2 200 bytes       2 208 bytes       4 408 bytes    22.064688000         0.0002
+172.16.0.2:3033            <-> 192.168.0.10:443                 2 200 bytes       2 208 bytes       4 408 bytes    22.064697000         0.0003
+172.16.0.2:3033            <-> 192.168.0.10:23                  2 200 bytes       2 208 bytes       4 408 bytes    22.064703000         0.0003
+172.16.0.2:3033            <-> 192.168.0.10:53                  2 200 bytes       2 208 bytes       4 408 bytes    22.064709000         0.0003
+172.31.0.134:3033          <-> 192.168.0.10:110                 2 112 bytes       2 120 bytes       4 232 bytes    22.064718000         0.0002
+172.16.0.2:3033            <-> 192.168.0.10:25                  2 200 bytes       2 208 bytes       4 408 bytes    22.064719000         0.0003
+172.16.0.2:3033            <-> 192.168.0.10:80                  2 200 bytes       2 208 bytes       4 408 bytes    22.064724000         0.0003
+172.16.0.2:3033            <-> 192.168.0.10:21                  2 200 bytes       2 208 bytes       4 408 bytes    22.064729000         0.0003
+172.16.0.2:3033            <-> 192.168.0.10:3306                2 200 bytes       2 208 bytes       4 408 bytes    22.064734000         0.0003
+172.31.0.134:3033          <-> 192.168.0.10:443                 2 112 bytes       2 120 bytes       4 232 bytes    22.064742000         0.0002
+172.31.0.134:3033          <-> 192.168.0.10:23                  2 112 bytes       2 120 bytes       4 232 bytes    22.064769000         0.0002
+172.31.0.134:3033          <-> 192.168.0.10:53                  2 112 bytes       2 120 bytes       4 232 bytes    22.064781000         0.0002
+172.31.0.134:3033          <-> 192.168.0.10:25                  2 112 bytes       2 120 bytes       4 232 bytes    22.064803000         0.0001
+172.31.0.134:3033          <-> 192.168.0.10:80                  2 112 bytes       2 120 bytes       4 232 bytes    22.064814000         0.0002
+172.31.0.134:3033          <-> 192.168.0.10:21                  2 112 bytes       2 120 bytes       4 232 bytes    22.064825000         0.0002
+172.31.0.134:3033          <-> 192.168.0.10:3306                2 112 bytes       2 120 bytes       4 232 bytes    22.064836000         0.0001
+172.18.139.27:3109         <-> 162.254.196.79:443               2 112 bytes       2 220 bytes       4 332 bytes    25.164775000        27.1214
+172.18.139.27:56866        <-> 31.13.73.12:443                  2 143 bytes       2 143 bytes       4 286 bytes    26.109720000         0.1300
+172.16.0.2:57220           <-> 209.85.202.94:443                2 224 bytes       2 202 bytes       4 426 bytes    29.554759000         0.0024
+172.31.0.134:57220         <-> 209.85.202.94:443                2 136 bytes       2 114 bytes       4 250 bytes    29.554813000         0.0023
+172.16.0.2:3080            <-> 192.168.0.10:110                 2 200 bytes       2 208 bytes       4 408 bytes    32.429793000         0.0003
+172.16.0.2:3080            <-> 192.168.0.10:80                  2 200 bytes       2 208 bytes       4 408 bytes    32.429801000         0.0003
+172.16.0.2:3080            <-> 192.168.0.10:23                  2 200 bytes       2 208 bytes       4 408 bytes    32.429806000         0.0003
+172.16.0.2:3080            <-> 192.168.0.10:21                  2 200 bytes       2 208 bytes       4 408 bytes    32.429814000         0.0003
+172.16.0.2:3080            <-> 192.168.0.10:53                  2 200 bytes       2 208 bytes       4 408 bytes    32.429819000         0.0003
+172.16.0.2:3080            <-> 192.168.0.10:25                  2 200 bytes       2 208 bytes       4 408 bytes    32.429825000         0.0003
+172.16.0.2:3080            <-> 192.168.0.10:443                 2 200 bytes       2 208 bytes       4 408 bytes    32.429829000         0.0003
+172.16.0.2:3080            <-> 192.168.0.10:3306                2 200 bytes       2 208 bytes       4 408 bytes    32.429833000         0.0003
+172.31.0.134:3080          <-> 192.168.0.10:110                 2 112 bytes       2 120 bytes       4 232 bytes    32.429837000         0.0002
+172.31.0.134:3080          <-> 192.168.0.10:80                  2 112 bytes       2 120 bytes       4 232 bytes    32.429861000         0.0002
+172.31.0.134:3080          <-> 192.168.0.10:23                  2 112 bytes       2 120 bytes       4 232 bytes    32.429873000         0.0002
+172.31.0.134:3080          <-> 192.168.0.10:21                  2 112 bytes       2 120 bytes       4 232 bytes    32.429900000         0.0002
+172.31.0.134:3080          <-> 192.168.0.10:53                  2 112 bytes       2 120 bytes       4 232 bytes    32.429921000         0.0002
+172.31.0.134:3080          <-> 192.168.0.10:25                  2 112 bytes       2 120 bytes       4 232 bytes    32.429933000         0.0001
+172.31.0.134:3080          <-> 192.168.0.10:443                 2 112 bytes       2 120 bytes       4 232 bytes    32.429953000         0.0001
+172.31.0.134:3080          <-> 192.168.0.10:3306                2 112 bytes       2 120 bytes       4 232 bytes    32.429964000         0.0001
+172.16.0.2:57018           <-> 172.253.116.94:443               2 224 bytes       2 202 bytes       4 426 bytes    39.499791000         0.0045
+172.31.0.134:57018         <-> 172.253.116.94:443               2 136 bytes       2 114 bytes       4 250 bytes    39.499852000         0.0044
+172.16.0.2:3012            <-> 192.168.0.10:53                  2 200 bytes       2 208 bytes       4 408 bytes    42.779822000         0.0003
+172.16.0.2:3012            <-> 192.168.0.10:80                  2 200 bytes       2 208 bytes       4 408 bytes    42.779827000         0.0002
+172.16.0.2:3012            <-> 192.168.0.10:443                 2 200 bytes       2 208 bytes       4 408 bytes    42.779833000         0.0003
+172.16.0.2:3012            <-> 192.168.0.10:110                 2 200 bytes       2 208 bytes       4 408 bytes    42.779838000         0.0004
+172.16.0.2:3012            <-> 192.168.0.10:3306                2 200 bytes       2 208 bytes       4 408 bytes    42.779842000         0.0003
+172.16.0.2:3012            <-> 192.168.0.10:23                  2 200 bytes       2 208 bytes       4 408 bytes    42.779846000         0.0003
+172.16.0.2:3012            <-> 192.168.0.10:21                  2 200 bytes       2 208 bytes       4 408 bytes    42.779851000         0.0002
+172.16.0.2:3012            <-> 192.168.0.10:25                  2 200 bytes       2 208 bytes       4 408 bytes    42.779856000         0.0003
+172.31.0.134:3012          <-> 192.168.0.10:53                  2 112 bytes       2 120 bytes       4 232 bytes    42.779867000         0.0002
+172.31.0.134:3012          <-> 192.168.0.10:80                  2 112 bytes       2 120 bytes       4 232 bytes    42.779891000         0.0001
+172.31.0.134:3012          <-> 192.168.0.10:443                 2 112 bytes       2 120 bytes       4 232 bytes    42.779900000         0.0002
+172.31.0.134:3012          <-> 192.168.0.10:110                 2 112 bytes       2 120 bytes       4 232 bytes    42.779912000         0.0003
+172.31.0.134:3012          <-> 192.168.0.10:3306                2 112 bytes       2 120 bytes       4 232 bytes    42.779921000         0.0002
+172.31.0.134:3012          <-> 192.168.0.10:23                  2 112 bytes       2 120 bytes       4 232 bytes    42.779930000         0.0002
+172.31.0.134:3012          <-> 192.168.0.10:21                  2 112 bytes       2 120 bytes       4 232 bytes    42.779942000         0.0001
+172.31.0.134:3012          <-> 192.168.0.10:25                  2 112 bytes       2 120 bytes       4 232 bytes    42.779958000         0.0002
+172.16.0.2:57069           <-> 74.125.193.94:443                2 224 bytes       2 202 bytes       4 426 bytes    43.994801000         0.0024
+172.31.0.134:57069         <-> 74.125.193.94:443                2 136 bytes       2 114 bytes       4 250 bytes    43.994825000         0.0024
+192.168.0.1:3028           <-> 192.168.0.10:22                  1 62 bytes        2 116 bytes       3 178 bytes     3.159769000         0.0155
+192.168.0.1:3033           <-> 192.168.0.10:22                  1 62 bytes        2 116 bytes       3 178 bytes    22.064797000         0.0199
+172.18.139.27:49631        <-> 4.207.247.137:443                1 176 bytes       2 211 bytes       3 387 bytes    28.319825000         0.0699
+192.168.0.1:3080           <-> 192.168.0.10:22                  1 62 bytes        2 116 bytes       3 178 bytes    32.429894000         0.0199
+192.168.0.1:3012           <-> 192.168.0.10:22                  1 62 bytes        2 116 bytes       3 178 bytes    42.779858000         0.0199
+192.168.0.1:3090           <-> 192.168.0.10:80                  1 62 bytes        1 56 bytes        2 118 bytes     3.009614000         0.0002
+192.168.0.1:3090           <-> 192.168.0.10:443                 1 62 bytes        1 60 bytes        2 122 bytes     3.009694000         0.0001
+192.168.0.1:3028           <-> 192.168.0.10:80                  1 62 bytes        1 60 bytes        2 122 bytes     3.159712000         0.0002
+192.168.0.1:3028           <-> 192.168.0.10:3306                1 62 bytes        1 60 bytes        2 122 bytes     3.159744000         0.0001
+192.168.0.1:3028           <-> 192.168.0.10:110                 1 62 bytes        1 60 bytes        2 122 bytes     3.159793000         0.0001
+192.168.0.1:3028           <-> 192.168.0.10:21                  1 62 bytes        1 60 bytes        2 122 bytes     3.159817000         0.0001
+192.168.0.1:3028           <-> 192.168.0.10:53                  1 62 bytes        1 60 bytes        2 122 bytes     3.159842000         0.0001
+192.168.0.1:3028           <-> 192.168.0.10:25                  1 62 bytes        1 60 bytes        2 122 bytes     3.159866000         0.0001
+192.168.0.1:3028           <-> 192.168.0.10:23                  1 62 bytes        1 60 bytes        2 122 bytes     3.160013000         0.0001
+192.168.0.1:3028           <-> 192.168.0.10:443                 1 62 bytes        1 60 bytes        2 122 bytes     3.160038000         0.0001
+172.18.139.27:57164        <-> 172.253.116.95:443               1 68 bytes        1 57 bytes        2 125 bytes    13.749679000         0.0027
+172.18.139.27:57206        <-> 74.125.193.95:443                1 68 bytes        1 57 bytes        2 125 bytes    13.879680000         0.0021
+172.18.139.27:57114        <-> 172.253.116.94:443               1 68 bytes        1 57 bytes        2 125 bytes    14.779653000         0.0022
+172.18.139.27:3181         <-> 74.125.193.188:443               1 68 bytes        1 57 bytes        2 125 bytes    17.764708000         0.0020
+192.168.0.1:3033           <-> 192.168.0.10:110                 1 62 bytes        1 60 bytes        2 122 bytes    22.064732000         0.0002
+192.168.0.1:3033           <-> 192.168.0.10:443                 1 62 bytes        1 60 bytes        2 122 bytes    22.064749000         0.0002
+192.168.0.1:3033           <-> 192.168.0.10:23                  1 62 bytes        1 60 bytes        2 122 bytes    22.064776000         0.0001
+192.168.0.1:3033           <-> 192.168.0.10:53                  1 62 bytes        1 60 bytes        2 122 bytes    22.064787000         0.0002
+192.168.0.1:3033           <-> 192.168.0.10:25                  1 62 bytes        1 60 bytes        2 122 bytes    22.064808000         0.0001
+192.168.0.1:3033           <-> 192.168.0.10:80                  1 62 bytes        1 60 bytes        2 122 bytes    22.064819000         0.0002
+192.168.0.1:3033           <-> 192.168.0.10:21                  1 62 bytes        1 60 bytes        2 122 bytes    22.064830000         0.0002
+192.168.0.1:3033           <-> 192.168.0.10:3306                1 62 bytes        1 60 bytes        2 122 bytes    22.064841000         0.0001
+172.16.0.2:57159           <-> 54.160.47.90:443                 0 0 bytes         2 200 bytes       2 200 bytes    22.714682000         0.0000
+172.31.0.134:57159         <-> 54.160.47.90:443                 0 0 bytes         2 112 bytes       2 112 bytes    22.714722000         0.0000
+172.18.139.27:57220        <-> 209.85.202.94:443                1 68 bytes        1 57 bytes        2 125 bytes    29.554826000         0.0023
+192.168.0.1:3080           <-> 192.168.0.10:110                 1 62 bytes        1 60 bytes        2 122 bytes    32.429850000         0.0002
+192.168.0.1:3080           <-> 192.168.0.10:80                  1 62 bytes        1 60 bytes        2 122 bytes    32.429867000         0.0002
+192.168.0.1:3080           <-> 192.168.0.10:23                  1 62 bytes        1 60 bytes        2 122 bytes    32.429880000         0.0001
+192.168.0.1:3080           <-> 192.168.0.10:21                  1 62 bytes        1 60 bytes        2 122 bytes    32.429905000         0.0001
+192.168.0.1:3080           <-> 192.168.0.10:53                  1 62 bytes        1 60 bytes        2 122 bytes    32.429927000         0.0001
+192.168.0.1:3080           <-> 192.168.0.10:25                  1 62 bytes        1 60 bytes        2 122 bytes    32.429943000         0.0001
+192.168.0.1:3080           <-> 192.168.0.10:443                 1 62 bytes        1 60 bytes        2 122 bytes    32.429958000         0.0001
+192.168.0.1:3080           <-> 192.168.0.10:3306                1 62 bytes        1 60 bytes        2 122 bytes    32.429970000         0.0001
+172.18.139.27:57018        <-> 172.253.116.94:443               1 68 bytes        1 57 bytes        2 125 bytes    39.499864000         0.0044
+192.168.0.1:3012           <-> 192.168.0.10:53                  1 62 bytes        1 60 bytes        2 122 bytes    42.779872000         0.0002
+192.168.0.1:3012           <-> 192.168.0.10:80                  1 62 bytes        1 60 bytes        2 122 bytes    42.779895000         0.0001
+192.168.0.1:3012           <-> 192.168.0.10:443                 1 62 bytes        1 60 bytes        2 122 bytes    42.779905000         0.0002
+192.168.0.1:3012           <-> 192.168.0.10:110                 1 62 bytes        1 60 bytes        2 122 bytes    42.779916000         0.0003
+192.168.0.1:3012           <-> 192.168.0.10:3306                1 62 bytes        1 60 bytes        2 122 bytes    42.779925000         0.0002
+192.168.0.1:3012           <-> 192.168.0.10:23                  1 62 bytes        1 60 bytes        2 122 bytes    42.779936000         0.0002
+192.168.0.1:3012           <-> 192.168.0.10:21                  1 62 bytes        1 60 bytes        2 122 bytes    42.779949000         0.0001
+192.168.0.1:3012           <-> 192.168.0.10:25                  1 62 bytes        1 60 bytes        2 122 bytes    42.779962000         0.0001
+172.18.139.27:57069        <-> 74.125.193.94:443                1 68 bytes        1 57 bytes        2 125 bytes    43.994832000         0.0024
+172.18.139.27:57159        <-> 54.160.47.90:443                 0 0 bytes         1 56 bytes        1 56 bytes     22.714735000         0.0000
+172.18.139.27:56062        <-> 82.155.115.149:21116             0 0 bytes         1 76 bytes        1 76 bytes     34.674693000         0.0000
+================================================================================
+================================================================================
+IPv4 Conversations
+Filter:<No Filter>
+                                               |       <-      | |       ->      | |     Total     |    Relative    |   Duration   |
+                                               | Frames  Bytes | | Frames  Bytes | | Frames  Bytes |      Start     |              |
+192.168.0.1          <-> 192.168.0.1                0 0 bytes     50415 9250 kB     50415 9250 kB       0.000000000        55.8601
+192.168.0.3          <-> 192.168.0.1             7156 563 kB      13179 5578 kB     20335 6142 kB       0.001113000        55.8599
+172.31.0.1           <-> 172.31.0.134            3022 419 kB       3894 3476 kB      6916 3895 kB       0.024646000        55.6651
+3.74.210.117         <-> 172.31.0.134            2522 2960 kB      1720 115 kB       4242 3075 kB       0.090809000        55.5990
+3.74.210.117         <-> 172.16.0.2              2522 3071 kB      1720 190 kB       4242 3262 kB       0.090841000        55.5989
+172.18.139.27        <-> 173.249.31.2            2178 1357 kB      1887 477 kB       4065 1835 kB       0.051558000        55.7886
+3.74.210.117         <-> 172.18.139.27           1261 1480 kB       860 57 kB        2121 1537 kB       0.090800000        55.5990
+172.16.0.2           <-> 31.13.73.12              682 68 kB         692 144 kB       1374 213 kB        0.024646000        55.5202
+172.31.0.134         <-> 31.13.73.12              682 38 kB         692 114 kB       1374 152 kB        0.024697000        55.5202
+172.19.0.1           <-> 172.19.0.2               256 35 kB         492 147 kB        748 183 kB        0.051707000        55.7888
+172.18.139.27        <-> 31.13.73.12              341 19 kB         346 57 kB         687 76 kB         0.024708000        55.5202
+127.0.0.1            <-> 127.0.0.1                  0 0 bytes       602 144 kB        602 144 kB        0.051477000        55.7891
+127.0.0.1            <-> 127.0.0.53               175 40 kB         175 20 kB         350 61 kB         2.631195000        52.1478
+172.31.0.137         <-> 172.31.0.130             150 12 kB         198 18 kB         348 31 kB         0.819439000        50.0003
+172.31.0.133         <-> 172.31.0.130             147 12 kB         198 18 kB         345 31 kB         1.604611000        50.0053
+172.31.0.134         <-> 172.31.0.130             144 12 kB         201 19 kB         345 31 kB         1.825092000        50.0051
+172.31.0.138         <-> 172.31.0.130             144 12 kB         198 18 kB         342 31 kB         1.076427000        50.0003
+172.31.0.136         <-> 172.31.0.130             144 12 kB         198 18 kB         342 31 kB         4.108436000        50.0003
+172.16.0.2           <-> 192.168.0.10             110 11 kB         130 13 kB         240 25 kB         3.009577000        39.9952
+172.31.0.134         <-> 192.168.0.10             110 6928 bytes     130 8152 bytes     240 15 kB         3.009604000        39.9952
+209.85.203.101       <-> 172.31.0.134              68 37 kB          88 17 kB         156 54 kB         6.362219000        27.4900
+209.85.203.101       <-> 172.16.0.2                68 40 kB          88 21 kB         156 61 kB         6.362251000        27.4900
+172.16.0.2           <-> 176.58.92.254             62 10 kB          74 15 kB         136 25 kB         0.439649000        55.0802
+172.31.0.134         <-> 176.58.92.254             62 7640 bytes      74 12 kB         136 19 kB         0.439687000        55.0802
+192.168.0.1          <-> 192.168.0.10              55 3700 bytes      65 4076 bytes     120 7776 bytes     3.009614000        39.9952
+172.16.0.2           <-> 54.161.152.147            46 5356 bytes      72 81 kB         118 87 kB         9.864604000        30.2034
+172.31.0.134         <-> 54.161.152.147            46 3332 bytes      72 78 kB         118 81 kB         9.864632000        30.2034
+172.253.116.95       <-> 172.31.0.134              50 23 kB          64 10 kB         114 33 kB         7.485960000        41.5565
+172.253.116.95       <-> 172.16.0.2                50 25 kB          64 13 kB         114 39 kB         7.486003000        41.5564
+172.18.139.27        <-> 137.43.116.19             46 10 kB          46 4309 bytes      92 14 kB         2.631421000        52.1476
+172.16.0.2           <-> 209.85.203.95             42 30 kB          48 26 kB          90 56 kB         2.264626000        45.1175
+172.16.0.2           <-> 209.85.203.94             42 10 kB          44 14 kB          86 25 kB        18.274732000         0.1224
+172.31.0.134         <-> 209.85.203.95             36 28 kB          48 24 kB          84 52 kB         2.264658000        45.1175
+172.31.0.134         <-> 209.85.203.94             40 8880 bytes      44 12 kB          84 21 kB        18.274782000         0.1223
+209.85.203.101       <-> 172.18.139.27             34 18 kB          44 8579 bytes      78 27 kB         6.362212000        27.4900
+172.18.139.27        <-> 176.58.92.254             31 3820 bytes      37 6049 bytes      68 9869 bytes     0.439696000        55.0802
+193.1.132.217        <-> 224.0.0.251                0 0 bytes        62 12 kB          62 12 kB         0.400338000        48.0335
+172.18.139.27        <-> 54.161.152.147            23 1666 bytes      36 39 kB          59 40 kB         9.864641000        30.2034
+172.253.116.95       <-> 172.18.139.27             25 11 kB          32 5338 bytes      57 16 kB         7.485949000        41.5565
+172.18.139.27        <-> 34.107.221.82             22 4416 bytes      34 6060 bytes      56 10 kB         5.706941000        49.1130
+172.18.139.27        <-> 82.155.115.149             0 0 bytes        49 3436 bytes      49 3436 bytes     2.633880000        53.1851
+0.0.0.0              <-> 255.255.255.255            0 0 bytes        42 14 kB          42 14 kB         1.587972000        53.7705
+172.18.139.27        <-> 209.85.203.95             18 14 kB          24 12 kB          42 26 kB         2.264671000        45.1175
+172.18.139.27        <-> 209.85.203.94             20 4440 bytes      22 6351 bytes      42 10 kB        18.274786000         0.1223
+172.16.0.2           <-> 172.16.0.1                20 2856 bytes      20 2296 bytes      40 5152 bytes    22.534652000        23.9953
+172.16.0.2           <-> 137.43.116.17             18 6744 bytes      20 2598 bytes      38 9342 bytes     2.244569000        43.6830
+172.31.0.134         <-> 137.43.116.17             18 5952 bytes      20 1718 bytes      38 7670 bytes     2.244619000        43.6829
+172.16.0.2           <-> 34.196.238.251            20 12 kB          18 3758 bytes      38 15 kB        33.419702000         0.7000
+172.16.0.2           <-> 34.120.177.193            20 11 kB          18 7828 bytes      38 19 kB        45.059823000         0.1900
+172.31.0.134         <-> 34.120.177.193            20 10 kB          18 7036 bytes      38 17 kB        45.059860000         0.1900
+172.31.0.133         <-> 172.31.0.134              18 1080 bytes      18 1080 bytes      36 2160 bytes     2.519010000        50.0022
+172.16.0.2           <-> 209.85.202.106            20 12 kB          16 5284 bytes      36 18 kB        11.454586000        10.0651
+172.31.0.134         <-> 34.196.238.251            18 11 kB          18 2966 bytes      36 14 kB        33.419734000         0.7000
+172.16.0.2           <-> 31.13.73.18               16 2640 bytes      16 4702 bytes      32 7342 bytes     2.994653000        20.9153
+172.31.0.134         <-> 31.13.73.18               16 1936 bytes      16 3998 bytes      32 5934 bytes     2.994695000        20.9153
+172.31.0.134         <-> 209.85.202.106            16 11 kB          16 4580 bytes      32 16 kB        11.454634000        10.0651
+172.18.139.27        <-> 195.181.165.139           12 816 bytes      12 816 bytes      24 1632 bytes     3.146941000        51.5239
+172.16.0.2           <-> 193.1.132.217              0 0 bytes        20 4240 bytes      20 4240 bytes     0.439682000        50.8202
+172.31.0.134         <-> 193.1.132.217              0 0 bytes        20 3360 bytes      20 3360 bytes     0.439711000        50.8203
+172.16.0.2           <-> 31.13.73.49               10 1648 bytes      10 3060 bytes      20 4708 bytes    24.499756000         0.8650
+172.31.0.134         <-> 31.13.73.49               10 1208 bytes      10 2620 bytes      20 3828 bytes    24.499770000         0.8650
+172.18.139.27        <-> 137.43.116.17              9 2976 bytes      10 859 bytes      19 3835 bytes     2.244631000        43.6829
+172.18.139.27        <-> 34.120.177.193            10 5322 bytes       9 3518 bytes      19 8840 bytes    45.059872000         0.1900
+172.18.139.27        <-> 34.196.238.251             9 5623 bytes       9 1483 bytes      18 7106 bytes    33.419744000         0.7000
+193.1.133.213        <-> 224.0.0.251                0 0 bytes        17 2645 bytes      17 2645 bytes     1.544922000        54.2239
+172.31.0.1           <-> 172.31.0.132               8 864 bytes       8 864 bytes      16 1728 bytes     1.098944000        31.7440
+172.18.139.27        <-> 31.13.73.18                8 968 bytes       8 1999 bytes      16 2967 bytes     2.994704000        20.9153
+172.18.139.27        <-> 34.107.243.93              8 656 bytes       8 672 bytes      16 1328 bytes     8.313977000        46.8099
+172.18.139.27        <-> 209.85.202.106             8 5840 bytes       8 2290 bytes      16 8130 bytes    11.454651000        10.0651
+172.16.0.2           <-> 172.253.116.102            6 770 bytes       6 602 bytes      12 1372 bytes    14.764685000        14.0500
+172.31.0.134         <-> 172.253.116.102            6 506 bytes       6 338 bytes      12 844 bytes    14.764727000        14.0500
+172.18.139.27        <-> 193.1.132.217              0 0 bytes        10 1680 bytes      10 1680 bytes     0.439714000        50.8203
+172.16.0.2           <-> 174.129.36.23              4 1424 bytes       6 2354 bytes      10 3778 bytes    18.619682000         0.2550
+172.31.0.134         <-> 174.129.36.23              4 1248 bytes       6 2090 bytes      10 3338 bytes    18.619702000         0.2550
+172.18.139.27        <-> 31.13.73.49                5 604 bytes       5 1310 bytes      10 1914 bytes    24.499774000         0.8650
+172.31.0.136         <-> 172.31.0.131               3 303 bytes       6 489 bytes       9 792 bytes    54.105996000         0.0001
+172.16.0.2           <-> 52.28.255.255              4 594 bytes       4 402 bytes       8 996 bytes     8.249635000        21.4901
+172.31.0.134         <-> 52.28.255.255              4 418 bytes       4 226 bytes       8 644 bytes     8.249686000        21.4901
+172.16.0.2           <-> 172.253.116.94             4 448 bytes       4 404 bytes       8 852 bytes    14.779620000        24.7246
+172.31.0.134         <-> 172.253.116.94             4 272 bytes       4 228 bytes       8 500 bytes    14.779646000        24.7246
+172.16.0.2           <-> 176.58.93.154              4 480 bytes       4 512 bytes       8 992 bytes    22.524655000        24.0126
+172.16.0.2           <-> 176.58.90.104              4 480 bytes       4 512 bytes       8 992 bytes    22.524671000        24.0114
+172.31.0.134         <-> 176.58.93.154              4 304 bytes       4 336 bytes       8 640 bytes    22.524694000        24.0125
+172.31.0.134         <-> 176.58.90.104              4 304 bytes       4 336 bytes       8 640 bytes    22.524719000        24.0113
+172.16.0.2           <-> 239.255.255.250            0 0 bytes         8 1628 bytes       8 1628 bytes    22.539767000        23.9901
+172.16.0.2           <-> 162.254.196.79             4 400 bytes       4 616 bytes       8 1016 bytes    25.164716000        27.1215
+172.31.0.134         <-> 162.254.196.79             4 224 bytes       4 440 bytes       8 664 bytes    25.164763000        27.1214
+193.1.132.216        <-> 224.0.0.251                0 0 bytes         7 4222 bytes       7 4222 bytes     9.188555000        44.8994
+172.18.139.27        <-> 172.253.116.102            3 253 bytes       3 169 bytes       6 422 bytes    14.764737000        14.0500
+172.16.0.2           <-> 4.207.247.137              2 440 bytes       4 598 bytes       6 1038 bytes    28.319750000         0.0699
+172.31.0.134         <-> 4.207.247.137              2 352 bytes       4 422 bytes       6 774 bytes    28.319813000         0.0699
+172.18.139.27        <-> 174.129.36.23              2 624 bytes       3 1045 bytes       5 1669 bytes    18.619708000         0.2550
+193.1.132.2          <-> 255.255.255.255            0 0 bytes         4 1376 bytes       4 1376 bytes     7.131009000        44.9898
+193.1.132.3          <-> 255.255.255.255            0 0 bytes         4 1376 bytes       4 1376 bytes     7.134853000        44.9862
+172.18.139.27        <-> 52.28.255.255              2 209 bytes       2 113 bytes       4 322 bytes     8.249699000        21.4901
+172.16.0.2           <-> 74.125.193.95              2 224 bytes       2 202 bytes       4 426 bytes    13.879629000         0.0022
+172.31.0.134         <-> 74.125.193.95              2 136 bytes       2 114 bytes       4 250 bytes    13.879671000         0.0021
+172.18.139.27        <-> 172.253.116.94             2 136 bytes       2 114 bytes       4 250 bytes    14.779653000        24.7246
+192.168.0.1          <-> 172.19.0.1                 0 0 bytes         4 432 bytes       4 432 bytes    16.970955000        35.8410
+192.168.0.1          <-> 172.17.0.1                 0 0 bytes         4 432 bytes       4 432 bytes    17.482968000        37.3760
+172.16.0.2           <-> 74.125.193.188             2 224 bytes       2 202 bytes       4 426 bytes    17.764660000         0.0021
+172.31.0.134         <-> 74.125.193.188             2 136 bytes       2 114 bytes       4 250 bytes    17.764697000         0.0020
+192.168.0.1          <-> 172.18.139.27              0 0 bytes         4 432 bytes       4 432 bytes    18.506953000        33.7930
+192.168.0.1          <-> 172.31.0.1                 0 0 bytes         4 432 bytes       4 432 bytes    21.066950000        31.2320
+172.18.139.27        <-> 176.58.93.154              2 152 bytes       2 168 bytes       4 320 bytes    22.524705000        24.0125
+172.18.139.27        <-> 176.58.90.104              2 152 bytes       2 168 bytes       4 320 bytes    22.524723000        24.0113
+172.18.139.27        <-> 162.254.196.79             2 112 bytes       2 220 bytes       4 332 bytes    25.164775000        27.1214
+172.16.0.2           <-> 209.85.202.94              2 224 bytes       2 202 bytes       4 426 bytes    29.554759000         0.0024
+172.31.0.134         <-> 209.85.202.94              2 136 bytes       2 114 bytes       4 250 bytes    29.554813000         0.0023
+172.16.0.2           <-> 74.125.193.94              2 224 bytes       2 202 bytes       4 426 bytes    43.994801000         0.0024
+172.31.0.134         <-> 74.125.193.94              2 136 bytes       2 114 bytes       4 250 bytes    43.994825000         0.0024
+172.16.0.2           <-> 176.58.92.144              2 240 bytes       2 256 bytes       4 496 bytes    46.549790000         0.0130
+172.31.0.134         <-> 176.58.92.144              2 152 bytes       2 168 bytes       4 320 bytes    46.549810000         0.0130
+172.18.139.27        <-> 4.207.247.137              1 176 bytes       2 211 bytes       3 387 bytes    28.319825000         0.0699
+193.1.133.114        <-> 193.1.133.255              0 0 bytes         3 282 bytes       3 282 bytes    40.836885000         1.5123
+172.18.139.27        <-> 74.125.193.95              1 68 bytes        1 57 bytes        2 125 bytes    13.879680000         0.0021
+172.18.139.27        <-> 74.125.193.188             1 68 bytes        1 57 bytes        2 125 bytes    17.764708000         0.0020
+172.16.0.2           <-> 54.160.47.90               0 0 bytes         2 200 bytes       2 200 bytes    22.714682000         0.0000
+172.31.0.134         <-> 54.160.47.90               0 0 bytes         2 112 bytes       2 112 bytes    22.714722000         0.0000
+172.18.139.27        <-> 209.85.202.94              1 68 bytes        1 57 bytes        2 125 bytes    29.554826000         0.0023
+172.18.139.27        <-> 74.125.193.94              1 68 bytes        1 57 bytes        2 125 bytes    43.994832000         0.0024
+172.18.139.27        <-> 176.58.92.144              1 76 bytes        1 84 bytes        2 160 bytes    46.549821000         0.0130
+172.18.139.27        <-> 54.160.47.90               0 0 bytes         1 56 bytes        1 56 bytes     22.714735000         0.0000
+================================================================================
+================================================================================
+IPv4 Endpoints
+Filter:<No Filter>
+                       | Packets | |  Bytes  | | Tx Packets | | Tx Bytes | | Rx Packets | | Rx Bytes |
+192.168.0.1                121301   24 MB           57652      9820 kB          63649      14 MB       
+192.168.0.3                 20335   6142 kB         13179      5578 kB           7156      563 kB      
+172.31.0.134                14151   7515 kB          7107      3741 kB           7044      3773 kB     
+3.74.210.117                10605   7875 kB          4300      363 kB            6305      7511 kB     
+172.18.139.27                7613   3653 kB          3904      2140 kB           3709      1512 kB     
+172.31.0.1                   6936   3897 kB          3902      3477 kB           3034      420 kB      
+172.16.0.2                   6916   3895 kB          3894      3476 kB           3022      419 kB      
+173.249.31.2                 4065   1835 kB          2178      1357 kB           1887      477 kB      
+31.13.73.12                  3435   442 kB           1705      126 kB            1730      316 kB      
+172.31.0.130                 1722   156 kB            729      61 kB              993      94 kB       
+127.0.0.1                    1554   350 kB            777      165 kB             777      185 kB      
+172.19.0.1                    752   183 kB            492      147 kB             260      35 kB       
+172.19.0.2                    748   183 kB            256      35 kB              492      147 kB      
+192.168.0.10                  600   48 kB             275      22 kB              325      26 kB       
+209.85.203.101                390   142 kB            220      46 kB              170      95 kB       
+172.31.0.133                  381   33 kB             216      19 kB              165      13 kB       
+172.31.0.136                  351   31 kB             204      19 kB              147      12 kB       
+127.0.0.53                    350   61 kB             175      40 kB              175      20 kB       
+172.31.0.137                  348   31 kB             198      18 kB              150      12 kB       
+172.31.0.138                  342   31 kB             198      18 kB              144      12 kB       
+176.58.92.254                 340   55 kB             155      21 kB              185      33 kB       
+54.161.152.147                295   210 kB            115      10 kB              180      199 kB      
+172.253.116.95                285   89 kB             160      29 kB              125      60 kB       
+209.85.203.95                 216   135 kB             96      72 kB              120      62 kB       
+209.85.203.94                 212   57 kB             102      24 kB              110      33 kB       
+193.1.132.217                 112   21 kB              62      12 kB               50      9280 bytes  
+137.43.116.17                  95   20 kB              45      15 kB               50      5175 bytes  
+34.120.177.193                 95   45 kB              50      27 kB               45      18 kB       
+137.43.116.19                  92   14 kB              46      10 kB               46      4309 bytes  
+34.196.238.251                 92   37 kB              47      29 kB               45      8207 bytes  
+224.0.0.251                    86   19 kB               0      0 bytes             86      19 kB       
+209.85.202.106                 84   42 kB              44      30 kB               40      12 kB       
+31.13.73.18                    80   16 kB              40      5544 bytes          40      10 kB       
+34.107.221.82                  56   10 kB              22      4416 bytes          34      6060 bytes  
+255.255.255.255                50   16 kB               0      0 bytes             50      16 kB       
+31.13.73.49                    50   10 kB              25      3460 bytes          25      6990 bytes  
+82.155.115.149                 49   3436 bytes          0      0 bytes             49      3436 bytes  
+0.0.0.0                        42   14 kB              42      14 kB                0      0 bytes     
+172.16.0.1                     40   5152 bytes         20      2856 bytes          20      2296 bytes  
+172.253.116.102                30   2638 bytes         15      1529 bytes          15      1109 bytes  
+174.129.36.23                  25   8785 bytes         10      3296 bytes          15      5489 bytes  
+195.181.165.139                24   1632 bytes         12      816 bytes           12      816 bytes   
+52.28.255.255                  20   1962 bytes         10      1221 bytes          10      741 bytes   
+172.253.116.94                 20   1602 bytes         10      856 bytes           10      746 bytes   
+176.58.93.154                  20   1952 bytes         10      936 bytes           10      1016 bytes  
+176.58.90.104                  20   1952 bytes         10      936 bytes           10      1016 bytes  
+162.254.196.79                 20   2012 bytes         10      736 bytes           10      1276 bytes  
+193.1.133.213                  17   2645 bytes         17      2645 bytes           0      0 bytes     
+172.31.0.132                   16   1728 bytes          8      864 bytes            8      864 bytes   
+34.107.243.93                  16   1328 bytes          8      656 bytes            8      672 bytes   
+4.207.247.137                  15   2199 bytes          5      968 bytes           10      1231 bytes  
+74.125.193.95                  10   801 bytes           5      428 bytes            5      373 bytes   
+74.125.193.188                 10   801 bytes           5      428 bytes            5      373 bytes   
+209.85.202.94                  10   801 bytes           5      428 bytes            5      373 bytes   
+74.125.193.94                  10   801 bytes           5      428 bytes            5      373 bytes   
+176.58.92.144                  10   976 bytes           5      468 bytes            5      508 bytes   
+172.31.0.131                    9   792 bytes           3      303 bytes            6      489 bytes   
+239.255.255.250                 8   1628 bytes          0      0 bytes              8      1628 bytes  
+193.1.132.216                   7   4222 bytes          7      4222 bytes           0      0 bytes     
+54.160.47.90                    5   368 bytes           0      0 bytes              5      368 bytes   
+193.1.132.2                     4   1376 bytes          4      1376 bytes           0      0 bytes     
+193.1.132.3                     4   1376 bytes          4      1376 bytes           0      0 bytes     
+172.17.0.1                      4   432 bytes           0      0 bytes              4      432 bytes   
+193.1.133.114                   3   282 bytes           3      282 bytes            0      0 bytes     
+193.1.133.255                   3   282 bytes           0      0 bytes              3      282 bytes   
+================================================================================
+
+===================================================================
+Protocol Hierarchy Statistics
+Filter: 
+
+frame                                    frames:96247 bytes:27166292
+  sll                                    frames:96247 bytes:27166292
+    ip                                   frames:95887 bytes:27123066
+      sctp                               frames:67324 bytes:13466084
+        data                             frames:22346 bytes:5944036
+        x2ap                             frames:22453 bytes:6074948
+          _ws.malformed                  frames:22345 bytes:5943692
+        f1ap                             frames:55 bytes:6380
+      udp                                frames:11154 bytes:5985176
+        gtp                              frames:10374 bytes:5826257
+          ip                             frames:6916 bytes:3895698
+            tcp                          frames:6760 bytes:3854800
+              tls                        frames:735 bytes:347701
+                tls                      frames:1 bytes:645
+              data                       frames:11 bytes:2360
+              ssh                        frames:4 bytes:616
+            udp                          frames:126 bytes:37034
+              data                       frames:20 bytes:4240
+              dns                        frames:38 bytes:9342
+              quic                       frames:12 bytes:16056
+              stun                       frames:28 bytes:3472
+              nat-pmp                    frames:12 bytes:1120
+              portcontrol                frames:4 bytes:448
+              ssdp                       frames:12 bytes:2356
+            icmp                         frames:30 bytes:3864
+        mdns                             frames:86 bytes:19251
+        data                             frames:46 bytes:5968
+        dhcp                             frames:50 bytes:16768
+        dns                              frames:499 bytes:87838
+        quic                             frames:18 bytes:23292
+        pfcp                             frames:36 bytes:2160
+        stun                             frames:42 bytes:3360
+        nbns                             frames:3 bytes:282
+      tcp                                frames:17394 bytes:7670930
+        tls                              frames:3643 bytes:2341192
+          tls                            frames:2 bytes:1202
+        data                             frames:129 bytes:48332
+        mongo                            frames:484 bytes:165048
+        http2                            frames:243 bytes:29031
+          http2                          frames:27 bytes:2484
+        ssh                              frames:8 bytes:880
+        http                             frames:24 bytes:8300
+          data-text-lines                frames:12 bytes:3736
+      icmp                               frames:15 bytes:876
+    ipv6                                 frames:131 bytes:29836
+      udp                                frames:110 bytes:27856
+        mdns                             frames:110 bytes:27856
+      icmpv6                             frames:21 bytes:1980
+    arp                                  frames:227 bytes:13120
+    lldp                                 frames:2 bytes:270
+===================================================================

@@ -1,0 +1,40 @@
+Folder layout expected:
+
+Big_Data_Project/
+├── archive/
+├── code/
+│   ├── 00_bigdata_profile.py
+│   ├── 01_network_model.py
+│   ├── 02_radio_model.py
+│   ├── 03_compare_models.py
+│   └── requirements.txt
+├── models/      (created automatically)
+└── results/     (created automatically)
+
+Run from PowerShell:
+
+1) Install dependencies:
+python -m pip install -r .\code\requirements.txt
+
+2) Profile the entire dataset volume:
+python .\code\00_bigdata_profile.py
+
+3) Train local network baseline on 300,000 stratified rows:
+python .\code\01_network_model.py
+
+Optional: use more local network rows:
+python .\code\01_network_model.py --max-rows 600000
+
+Optional: use the FULL network dataset:
+python .\code\01_network_model.py --max-rows 0
+
+4) Train radio model on ALL 45,244 radio rows:
+python .\code\02_radio_model.py
+
+5) Compare both models:
+python .\code\03_compare_models.py
+
+Important:
+- Local ML is only the baseline/prototype step.
+- The Big Data part will later use PySpark on AWS over the larger structured collection.
+- attack_category and attack_type/subcategory are NOT used as model inputs because that would leak the answer.

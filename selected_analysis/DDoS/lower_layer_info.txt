@@ -1,0 +1,59 @@
+File: C:\Users\aen593\Desktop\Big_Data_Project\archive\DDOS\DDOS\Lower_Layer\ddos_icmp_hping3.txt
+Rows: 1,499
+Columns: 23
+Parsing: {'sep': None, 'engine': 'python'}
+
+Columns:
+  - {"ue_id": 1 (object)
+  -  "timestamp": 1751364899238 (object)
+  -  "cellid": 11111111 (object)
+  -  "in_sync": 1 (object)
+  -  "rnti": "c66b" (object)
+  -  "dlBytes": 36435132 (object)
+  -  "dlMcs": 6 (object)
+  -  "dlBler": 0.687809 (object)
+  -  "ulBytes": 57489253 (object)
+  -  "ulMcs": 6 (object)
+  -  "ulBler": 1.0 (object)
+  -  "ri": 1 (object)
+  -  "pmi_0": 0 (object)
+  -  "pmi_1": 0 (object)
+  -  "phr": 17 (object)
+  -  "pcmax": -29 (object)
+  -  "rsrq": -11.0 (object)
+  -  "sinr": 14.5 (object)
+  -  "rsrp": -105 (object)
+  -  "rssi": -53.6 (object)
+  -  "cqi": 13 (object)
+  -  "pucchSnr": 1.0 (object)
+  -  "puschSnr": 1.5} (object)
+
+Detected time column:  "timestamp": 1751364899238
+Time minimum:  "timestamp": 1751364899238
+Time maximum:  "timestamp": 1751365398308
+
+Missing values:
+{"ue_id": 1                    0
+ "timestamp": 1751364899238    0
+ "cellid": 11111111            0
+ "in_sync": 1                  0
+ "rnti": "c66b"                0
+ "dlBytes": 36435132           0
+ "dlMcs": 6                    0
+ "dlBler": 0.687809            0
+ "ulBytes": 57489253           0
+ "ulMcs": 6                    0
+ "ulBler": 1.0                 0
+ "ri": 1                       0
+ "pmi_0": 0                    0
+ "pmi_1": 0                    0
+ "phr": 17                     0
+ "pcmax": -29                  0
+ "rsrq": -11.0                 0
+ "sinr": 14.5                  0
+ "rsrp": -105                  0
+ "rssi": -53.6                 0
+ "cqi": 13                     0
+ "pucchSnr": 1.0               0
+ "puschSnr": 1.5}              0
+dtype: int64

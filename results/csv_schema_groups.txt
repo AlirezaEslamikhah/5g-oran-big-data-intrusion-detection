@@ -1,0 +1,116 @@
+CSV SCHEMA GROUP ANALYSIS
+====================================================================================================
+Dataset root: C:\Users\aen593\Desktop\Big_Data_Project\archive
+CSV files found: 110
+Successfully inspected: 110
+Errors: 0
+Total CSV size: 6.62 GB
+Distinct schema groups: 8
+
+GROUP 01
+Detected type : packet_level
+Files         : 35
+Data size     : 6.39 GB
+CSV share     : 96.60%
+Columns       : 23
+Column names  : frame_len, frame_protocols, frame_time, icmp_code, icmp_type, ip_dst, ip_flags, ip_id, ip_len, ip_proto, ip_src, ip_ttl, tcp_ack, tcp_dstport, tcp_flags, tcp_len, tcp_seq, tcp_srcport, tcp_stream, tcp_window_size_value, udp_dstport, udp_length, udp_srcport
+Examples:
+     1.01 GB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredSYN2.csv
+  1017.56 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredSYN1.csv
+   984.99 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredSYN3.csv
+   756.54 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredICMP2.csv
+   364.82 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSSYN3.csv
+
+----------------------------------------------------------------------------------------------------
+
+GROUP 02
+Detected type : network_flow
+Files         : 1
+Data size     : 216.66 MB
+CSV share     : 3.20%
+Columns       : 26
+Column names  : attack_category, attack_type, conn_state, dst_bytes, dst_ip, dst_ip_bytes, dst_pkts, dst_port, duration, files_total_bytes, history, http_status_error, http_trans_depth, ip_proto, is_file_transfered, is_get_mthd, missed_bytes, proto, service, src_bytes, src_ip, src_ip_bytes, src_pkts, src_port, traffic_type, uid
+Examples:
+   216.66 MB | Network_Dataset.csv
+
+----------------------------------------------------------------------------------------------------
+
+GROUP 03
+Detected type : network_flow
+Files         : 35
+Data size     : 12.06 MB
+CSV share     : 0.18%
+Columns       : 13
+Column names  : conn_state, dst_ip, duration, history, orig_bytes, orig_ip_bytes, orig_pkts, proto, resp_bytes, resp_ip_bytes, resp_pkts, service, src_ip
+Examples:
+     5.68 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSSYN3flow.csv
+     3.17 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSSYN2flow.csv
+     1.24 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredTCP3flow.csv
+   732.12 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredTCP2flow.csv
+   406.34 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredTCP1flow.csv
+
+----------------------------------------------------------------------------------------------------
+
+GROUP 04
+Detected type : radio
+Files         : 35
+Data size     : 870.51 KB
+CSV share     : 0.01%
+Columns       : 22
+Column names  : cellid, cqi, dlbler, dlbytes, dlmcs, in_sync, pcmax, phr, pmi, pucchsnr, puschsnr, ri, rnti, rsrp, rsrq, rssi, sinr, timestamp, ue_id, ulbler, ulbytes, ulmcs
+Examples:
+    71.66 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign4.csv
+    71.01 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign6.csv
+    70.67 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign3.csv
+    68.06 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign2.csv
+    36.75 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign5.csv
+
+----------------------------------------------------------------------------------------------------
+
+GROUP 05
+Detected type : radio
+Files         : 1
+Data size     : 654.91 KB
+CSV share     : 0.01%
+Columns       : 19
+Column names  : cqi, dlbler, dlbytes, dlmcs, pcmax, phr, pmi, pucchsnr, puschsnr, ri, rnti, rsrp, rsrq, rssi, sinr, traffic_type, ulbler, ulbytes, ulmcs
+Examples:
+   654.91 KB | Attack (Legacy) Version 1\cleaned_radio_telemetry.csv
+
+----------------------------------------------------------------------------------------------------
+
+GROUP 06
+Detected type : radio
+Files         : 1
+Data size     : 560.20 KB
+CSV share     : 0.01%
+Columns       : 15
+Column names  : cqi, dlbler, dlbytes, dlmcs, phr, pmi, ri, rnti, rsrp, rsrq, rssi, sinr, traffic_type, ulbler, ulbytes
+Examples:
+   560.20 KB | Attack (Legacy) Version 1\after_analysis_radio_telemetry.csv
+
+----------------------------------------------------------------------------------------------------
+
+GROUP 07
+Detected type : packet_level
+Files         : 1
+Data size     : 92.00 B
+CSV share     : 0.00%
+Columns       : 9
+Column names  : frame_time, ip_dst, ip_proto, ip_src, tcp_dstport, tcp_flags, tcp_srcport, udp_dstport, udp_srcport
+Examples:
+     92.00 B | Attack (Legacy) Version 1\Attacks original\Attacks\ICMP Flood\ICMP3.csv
+
+----------------------------------------------------------------------------------------------------
+
+GROUP 08
+Detected type : packet_level
+Files         : 1
+Data size     : 68.00 B
+CSV share     : 0.00%
+Columns       : 7
+Column names  : frame_time, ip_dst, ip_proto, ip_src, tcp_dstport, tcp_flags, tcp_srcport
+Examples:
+     68.00 B | Attack (Legacy) Version 1\Attacks original\Attacks\Syn Flood\SYN3.csv
+
+----------------------------------------------------------------------------------------------------

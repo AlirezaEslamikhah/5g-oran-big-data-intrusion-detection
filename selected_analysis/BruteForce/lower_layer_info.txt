@@ -1,0 +1,59 @@
+File: C:\Users\aen593\Desktop\Big_Data_Project\archive\BruteForce\BruteForce\Lower_Layer\ftp_hydra.txt
+Rows: 600
+Columns: 23
+Parsing: {'sep': None, 'engine': 'python'}
+
+Columns:
+  - {"ue_id": 1 (object)
+  -  "timestamp": 1751030178797 (object)
+  -  "cellid": 11111111 (object)
+  -  "in_sync": 1 (object)
+  -  "rnti": "ae63" (object)
+  -  "dlBytes": 2615792292 (object)
+  -  "dlMcs": 12 (object)
+  -  "dlBler": 0.0 (object)
+  -  "ulBytes": 5052085221 (object)
+  -  "ulMcs": 15 (object)
+  -  "ulBler": 1e-06 (object)
+  -  "ri": 1 (object)
+  -  "pmi_0": 0 (object)
+  -  "pmi_1": 0 (object)
+  -  "phr": 21 (object)
+  -  "pcmax": 23 (object)
+  -  "rsrq": -10.5 (object)
+  -  "sinr": 23.5 (object)
+  -  "rsrp": -98 (object)
+  -  "rssi": -71.0 (object)
+  -  "cqi": 15 (object)
+  -  "pucchSnr": 20.0 (object)
+  -  "puschSnr": 33.0} (object)
+
+Detected time column:  "timestamp": 1751030178797
+Time minimum:  "timestamp": 1751030179797
+Time maximum:  "timestamp": 1751030778797
+
+Missing values:
+{"ue_id": 1                    0
+ "timestamp": 1751030178797    0
+ "cellid": 11111111            0
+ "in_sync": 1                  0
+ "rnti": "ae63"                0
+ "dlBytes": 2615792292         0
+ "dlMcs": 12                   0
+ "dlBler": 0.0                 0
+ "ulBytes": 5052085221         0
+ "ulMcs": 15                   0
+ "ulBler": 1e-06               0
+ "ri": 1                       0
+ "pmi_0": 0                    0
+ "pmi_1": 0                    0
+ "phr": 21                     0
+ "pcmax": 23                   0
+ "rsrq": -10.5                 0
+ "sinr": 23.5                  0
+ "rsrp": -98                   0
+ "rssi": -71.0                 0
+ "cqi": 15                     0
+ "pucchSnr": 20.0              0
+ "puschSnr": 33.0}             0
+dtype: int64

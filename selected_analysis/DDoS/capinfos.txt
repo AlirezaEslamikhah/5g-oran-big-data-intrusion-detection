@@ -1,0 +1,26 @@
+File name:           C:\Users\aen593\Desktop\Big_Data_Project\archive\DDOS\DDOS\Network_Layer\ddos_icmp_hping3.pcap
+File type:           Wireshark/tcpdump/... - pcap
+File encapsulation:  Linux cooked-mode capture v1
+File timestamp precision:  microseconds (6)
+Packet size limit:   file hdr: 262144 bytes
+Number of packets:   409 k
+File size:           224 MB
+Data size:           217 MB
+Capture duration:    258.487075 seconds
+Earliest packet time: 2025-07-01 06:26:34.829548
+Latest packet time:   2025-07-01 06:30:53.316623
+Data byte rate:      842 kBps
+Data bit rate:       6736 kbps
+Average packet size: 531.59 bytes
+Average packet rate: 1584 packets/s
+SHA256:              ce4268f5f57336c6df61c2693d87906b0f5fcede444e7ba11c5a372498d61d15
+SHA1:                8c7d35e7c168b388a4033ca2b012d85053717209
+Strict time order:   False
+Number of interfaces in file: 1
+Interface #0 info:
+                     Encapsulation = Linux cooked-mode capture v1 (25 - linux-sll)
+                     Capture length = 262144
+                     Time precision = microseconds (6)
+                     Time ticks per second = 1000000
+                     Number of stat entries = 0
+                     Number of packets = 409452

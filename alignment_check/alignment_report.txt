@@ -1,0 +1,183 @@
+PCAP ↔ LOWER-LAYER TIME ALIGNMENT
+====================================================================================================
+
+CATEGORY: Benign
+----------------------------------------------------------------------------------------------------
+PCAP: Benign\Benign\Network_data\benign.pcap
+PCAP UTC start: 2025-07-01T11:56:59.243052+00:00
+PCAP UTC end  : 2025-07-01T11:58:35.625382+00:00
+PCAP duration : 96.382 sec
+
+SELECTED TXT: Benign\Benign\Lower_Layer\benign.txt
+Rows: 2,357
+Bad JSON lines: 0
+Fields: cellid, cqi, dlBler, dlBytes, dlMcs, in_sync, pcmax, phr, pmi_0, pmi_1, pucchSnr, puschSnr, ri, rnti, rsrp, rsrq, rssi, sinr, timestamp, ue_id, ulBler, ulBytes, ulMcs
+TXT UTC start : 2025-07-01T12:51:04.245000+00:00
+TXT UTC end   : 2025-07-01T13:09:17.835000+00:00
+Overlap       : 0.000 sec
+Gap           : 3148.620 sec
+Selected pair : NO — selected pair does not overlap
+
+LOWER-LAYER CANDIDATES IN SAME CATEGORY:
+  benign.txt                   rows=2,357 | overlap=    0.000s | gap= 3148.620s | 2025-07-01T12:51:04.245000+00:00 → 2025-07-01T13:09:17.835000+00:00
+  benign_9.txt                 rows=  901 | overlap=    0.000s | gap=4049029.591s | 2025-05-15T14:58:09.652000+00:00 → 2025-05-15T15:13:09.652000+00:00
+  benign_8.txt                 rows=1,520 | overlap=    0.000s | gap=4224393.066s | 2025-05-13T13:59:39.917000+00:00 → 2025-05-13T14:30:26.177000+00:00
+  benign_7.txt                 rows=  968 | overlap=    0.000s | gap=4228660.069s | 2025-05-13T13:01:57.808000+00:00 → 2025-05-13T13:19:19.174000+00:00
+  benign_6.txt                 rows=  909 | overlap=    0.000s | gap=4233866.692s | 2025-05-13T11:37:24.551000+00:00 → 2025-05-13T11:52:32.551000+00:00
+  benign_3.txt                 rows=  393 | overlap=    0.000s | gap=4313779.115s | 2025-05-12T13:34:08.108000+00:00 → 2025-05-12T13:40:40.128000+00:00
+  benign_5.txt                 rows=  890 | overlap=    0.000s | gap=4318855.914s | 2025-05-12T12:01:14.329000+00:00 → 2025-05-12T12:16:03.329000+00:00
+  benign_4.txt                 rows=  935 | overlap=    0.000s | gap=4325828.757s | 2025-05-12T10:04:16.486000+00:00 → 2025-05-12T10:19:50.486000+00:00
+  benign_2.txt                 rows=  879 | overlap=    0.000s | gap=4568005.168s | 2025-05-09T14:48:56.075000+00:00 → 2025-05-09T15:03:34.075000+00:00
+  benign_1.txt                 rows=  912 | overlap=    0.000s | gap=4570601.542s | 2025-05-09T14:05:06.701000+00:00 → 2025-05-09T14:20:17.701000+00:00
+
+BEST TIME CANDIDATE: benign.txt (overlap=0.000s, gap=3148.620s)
+
+====================================================================================================
+
+CATEGORY: BruteForce
+----------------------------------------------------------------------------------------------------
+PCAP: BruteForce\BruteForce\Higher_Layer\ftp_hydra.pcap
+PCAP UTC start: 2025-06-27T13:12:25.695771+00:00
+PCAP UTC end  : 2025-06-27T13:26:22.073431+00:00
+PCAP duration : 836.378 sec
+
+SELECTED TXT: BruteForce\BruteForce\Lower_Layer\ftp_hydra.txt
+Rows: 601
+Bad JSON lines: 0
+Fields: cellid, cqi, dlBler, dlBytes, dlMcs, in_sync, pcmax, phr, pmi_0, pmi_1, pucchSnr, puschSnr, ri, rnti, rsrp, rsrq, rssi, sinr, timestamp, ue_id, ulBler, ulBytes, ulMcs
+TXT UTC start : 2025-06-27T13:16:18.797000+00:00
+TXT UTC end   : 2025-06-27T13:26:18.797000+00:00
+Overlap       : 600.000 sec
+Gap           : 0.000 sec
+Selected pair : YES — usable for time-based alignment
+
+LOWER-LAYER CANDIDATES IN SAME CATEGORY:
+  ftp_hydra.txt                rows=  601 | overlap=  600.000s | gap=    0.000s | 2025-06-27T13:16:18.797000+00:00 → 2025-06-27T13:26:18.797000+00:00
+  ftp_medusa.txt               rows=  790 | overlap=    0.000s | gap=  422.093s | 2025-06-27T13:33:24.166000+00:00 → 2025-06-27T13:46:33.166000+00:00
+  ssh_medusa.txt               rows=  742 | overlap=    0.000s | gap= 4304.595s | 2025-06-27T11:48:20.100000+00:00 → 2025-06-27T12:00:41.101000+00:00
+  ssh_hydra.txt                rows=  924 | overlap=    0.000s | gap= 5172.668s | 2025-06-27T11:30:28.939000+00:00 → 2025-06-27T11:46:13.028000+00:00
+
+BEST TIME CANDIDATE: ftp_hydra.txt (overlap=600.000s, gap=0.000s)
+
+====================================================================================================
+
+CATEGORY: DDoS
+----------------------------------------------------------------------------------------------------
+PCAP: DDOS\DDOS\Network_Layer\ddos_icmp_hping3.pcap
+PCAP UTC start: 2025-07-01T12:26:34.829548+00:00
+PCAP UTC end  : 2025-07-01T12:30:53.316623+00:00
+PCAP duration : 258.487 sec
+
+SELECTED TXT: DDOS\DDOS\Lower_Layer\ddos_icmp_hping3.txt
+Rows: 1,500
+Bad JSON lines: 0
+Fields: cellid, cqi, dlBler, dlBytes, dlMcs, in_sync, pcmax, phr, pmi_0, pmi_1, pucchSnr, puschSnr, ri, rnti, rsrp, rsrq, rssi, sinr, timestamp, ue_id, ulBler, ulBytes, ulMcs
+TXT UTC start : 2025-07-01T10:14:59.238000+00:00
+TXT UTC end   : 2025-07-01T10:23:18.308000+00:00
+Overlap       : 0.000 sec
+Gap           : 7396.522 sec
+Selected pair : NO — selected pair does not overlap
+
+LOWER-LAYER CANDIDATES IN SAME CATEGORY:
+  ddos_ack_hping3.txt          rows=  854 | overlap=    0.000s | gap=   88.144s | 2025-07-01T12:32:21.461000+00:00 → 2025-07-01T12:39:27.461000+00:00
+  ddos_syn_hping3.txt          rows=2,368 | overlap=    0.000s | gap= 5250.318s | 2025-07-01T10:49:13.492000+00:00 → 2025-07-01T10:59:04.512000+00:00
+  ddos_udp_hping3.txt          rows=2,565 | overlap=    0.000s | gap= 6609.547s | 2025-07-01T10:25:15.283000+00:00 → 2025-07-01T10:36:25.283000+00:00
+  ddos_icmp_hping3.txt         rows=1,500 | overlap=    0.000s | gap= 7396.522s | 2025-07-01T10:14:59.238000+00:00 → 2025-07-01T10:23:18.308000+00:00
+  ddos_icmp_nping.txt          rows=1,794 | overlap=    0.000s | gap= 8279.176s | 2025-07-01T09:58:38.652000+00:00 → 2025-07-01T10:08:35.654000+00:00
+  ddos_ack_nping.txt           rows=1,080 | overlap=    0.000s | gap= 9063.107s | 2025-07-01T09:49:32.603000+00:00 → 2025-07-01T09:55:31.723000+00:00
+  ddos_udp_nping.txt           rows=1,893 | overlap=    0.000s | gap= 9724.260s | 2025-07-01T09:34:00.570000+00:00 → 2025-07-01T09:44:30.570000+00:00
+  ddos_syn_nping.txt           rows=1,200 | overlap=    0.000s | gap=10517.270s | 2025-07-01T09:24:38.560000+00:00 → 2025-07-01T09:31:17.560000+00:00
+  ddos_slowloris.txt           rows=1,830 | overlap=    0.000s | gap=11433.979s | 2025-07-01T09:05:51.851000+00:00 → 2025-07-01T09:16:00.851000+00:00
+
+BEST TIME CANDIDATE: ddos_ack_hping3.txt (overlap=0.000s, gap=88.144s)
+
+====================================================================================================
+
+CATEGORY: DoS
+----------------------------------------------------------------------------------------------------
+PCAP: DoS\DoS\Network_Layer\slowloris.pcap
+PCAP UTC start: 2025-06-24T09:03:36.910504+00:00
+PCAP UTC end  : 2025-06-24T09:23:22.557041+00:00
+PCAP duration : 1185.647 sec
+
+SELECTED TXT: DoS\DoS\Lower_Layer\slowloris.txt
+Rows: 1,007
+Bad JSON lines: 0
+Fields: cqi, dlBler, dlBytes, dlMcs, pcmax, phr, pmi_0, pmi_1, pucchSnr, puschSnr, ri, rsrp, rsrq, rssi, sinr, ulBler, ulBytes, ulMcs
+Selected pair : NO TIMESTAMP FIELD — cannot directly time-align
+
+LOWER-LAYER CANDIDATES IN SAME CATEGORY:
+  tcp_npig.txt                 rows=  748 | overlap=    0.000s | gap=276198.942s | 2025-06-27T14:06:41.499000+00:00 → 2025-06-27T14:21:13.280000+00:00
+  udp_nping.txt                rows=1,040 | overlap=    0.000s | gap=277154.853s | 2025-06-27T14:22:37.410000+00:00 → 2025-06-27T14:39:56.409000+00:00
+  icmp_nping.txt               rows=1,037 | overlap=    0.000s | gap=279037.202s | 2025-06-27T14:53:59.759000+00:00 → 2025-06-27T15:11:15.759000+00:00
+  slowloris2.txt               rows=1,104 | overlap=    0.000s | gap=602635.913s | 2025-07-01T08:47:18.470000+00:00 → 2025-07-01T08:56:29.470000+00:00
+  icmp_hping3.txt              rows=1,125 | NO TIMESTAMP
+  slowloris.txt                rows=1,007 | NO TIMESTAMP
+  tcp-ack_hping3.txt           rows=  648 | NO TIMESTAMP
+  tcp-syn_hping3.txt           rows=  768 | NO TIMESTAMP
+  tcp_test.txt                 rows=  124 | NO TIMESTAMP
+  udp_hping3.txt               rows=  586 | NO TIMESTAMP
+
+BEST TIME CANDIDATE: tcp_npig.txt (overlap=0.000s, gap=276198.942s)
+
+====================================================================================================
+
+CATEGORY: Probe
+----------------------------------------------------------------------------------------------------
+PCAP: Probe\Probe\Network_Layer\portscan_tcp3.pcap
+PCAP UTC start: 2025-06-25T14:54:20.915041+00:00
+PCAP UTC end  : 2025-06-25T14:55:16.776041+00:00
+PCAP duration : 55.861 sec
+
+SELECTED TXT: Probe\Probe\Lower_Layer\portscan_tcp3.txt
+Rows: 231
+Bad JSON lines: 0
+Fields: cellid, cqi, dlBler, dlBytes, dlMcs, in_sync, pcmax, phr, pmi_0, pmi_1, pucchSnr, puschSnr, ri, rnti, rsrp, rsrq, rssi, sinr, timestamp, ue_id, ulBler, ulBytes, ulMcs
+TXT UTC start : 2025-06-25T14:37:28.647000+00:00
+TXT UTC end   : 2025-06-25T15:04:34.849000+00:00
+Overlap       : 55.861 sec
+Gap           : 0.000 sec
+Selected pair : YES — usable for time-based alignment
+
+LOWER-LAYER CANDIDATES IN SAME CATEGORY:
+  portscan_tcp3.txt            rows=  231 | overlap=   55.861s | gap=    0.000s | 2025-06-25T14:37:28.647000+00:00 → 2025-06-25T15:04:34.849000+00:00
+  osfingerprinting_nmap.txt    rows=5,647 | overlap=    0.000s | gap=  631.125s | 2025-06-25T15:05:47.901000+00:00 → 2025-06-25T16:40:43.603000+00:00
+  portscan_tcp2.txt            rows=  148 | overlap=    0.000s | gap= 1119.812s | 2025-06-25T14:33:14.103000+00:00 → 2025-06-25T14:35:41.103000+00:00
+  portscan_tcp1.txt            rows=  330 | overlap=    0.000s | gap= 1415.816s | 2025-06-25T14:24:53.967000+00:00 → 2025-06-25T14:30:45.099000+00:00
+  portscan_udp.txt             rows=1,142 | overlap=    0.000s | gap= 1909.951s | 2025-06-25T14:12:58.964000+00:00 → 2025-06-25T14:22:30.964000+00:00
+  osfingerprinting_xprobe2.txt rows=  389 | overlap=    0.000s | gap= 8498.374s | 2025-06-25T17:16:55.150000+00:00 → 2025-06-25T17:23:23.150000+00:00
+  portscan_masscan.txt         rows=1,127 | overlap=    0.000s | gap= 9053.068s | 2025-06-25T17:26:09.844000+00:00 → 2025-06-25T17:44:55.844000+00:00
+
+BEST TIME CANDIDATE: portscan_tcp3.txt (overlap=55.861s, gap=0.000s)
+
+====================================================================================================
+
+CATEGORY: Web
+----------------------------------------------------------------------------------------------------
+PCAP: Web\Web\Network_Layer\web_xss.pcap
+PCAP UTC start: 2025-06-30T11:16:37.477566+00:00
+PCAP UTC end  : 2025-06-30T11:20:41.317580+00:00
+PCAP duration : 243.840 sec
+
+SELECTED TXT: Web\Web\Lower_Layer\web_xss.txt
+Rows: 245
+Bad JSON lines: 0
+Fields: cellid, cqi, dlBler, dlBytes, dlMcs, in_sync, pcmax, phr, pmi_0, pmi_1, pucchSnr, puschSnr, ri, rnti, rsrp, rsrq, rssi, sinr, timestamp, ue_id, ulBler, ulBytes, ulMcs
+TXT UTC start : 2025-06-30T11:16:33.281000+00:00
+TXT UTC end   : 2025-06-30T11:20:37.281000+00:00
+Overlap       : 239.803 sec
+Gap           : 0.000 sec
+Selected pair : YES — usable for time-based alignment
+
+LOWER-LAYER CANDIDATES IN SAME CATEGORY:
+  web_xss.txt                  rows=  245 | overlap=  239.803s | gap=    0.000s | 2025-06-30T11:16:33.281000+00:00 → 2025-06-30T11:20:37.281000+00:00
+  web_sql_injection.txt        rows=  374 | overlap=    0.000s | gap=  164.030s | 2025-06-30T11:07:40.448000+00:00 → 2025-06-30T11:13:53.448000+00:00
+  web_xss2.txt                 rows=  538 | overlap=    0.000s | gap=  352.007s | 2025-06-30T11:26:33.325000+00:00 → 2025-06-30T11:35:30.325000+00:00
+  web_sql_injection2.txt       rows=  378 | overlap=    0.000s | gap= 1099.167s | 2025-06-30T11:39:00.485000+00:00 → 2025-06-30T11:45:17.485000+00:00
+  web_directory_bruteforce.txt rows=  640 | overlap=    0.000s | gap= 2775.882s | 2025-06-30T10:19:42.596000+00:00 → 2025-06-30T10:30:21.596000+00:00
+  web_http2.txt                rows=  303 | overlap=    0.000s | gap= 5225.532s | 2025-06-30T09:44:29.946000+00:00 → 2025-06-30T09:49:31.946000+00:00
+  web_http.txt                 rows=  795 | overlap=    0.000s | gap= 5612.813s | 2025-06-30T08:36:41.134000+00:00 → 2025-06-30T09:43:04.665000+00:00
+
+BEST TIME CANDIDATE: web_xss.txt (overlap=239.803s, gap=0.000s)
+
+====================================================================================================

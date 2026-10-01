@@ -1,0 +1,92 @@
+SELECTED 6-SCENARIO ANALYSIS
+====================================================================================================
+
+Category: Benign
+Status: ok
+PCAP: Benign\Benign\Network_data\benign.pcap
+PCAP size: 67.81 MB
+Packets: 140 k
+PCAP first packet: 
+PCAP last packet: 
+Lower-layer file: Benign\Benign\Lower_Layer\benign.txt
+Lower-layer rows: 2356
+Lower-layer time column:  "timestamp": 1751374264245
+Lower-layer time min:  "timestamp": 1751374264245
+Lower-layer time max:  "timestamp": 1751375357835
+
+----------------------------------------------------------------------------------------------------
+
+Category: BruteForce
+Status: ok
+PCAP: BruteForce\BruteForce\Higher_Layer\ftp_hydra.pcap
+PCAP size: 384.83 MB
+Packets: 1391 k
+PCAP first packet: 
+PCAP last packet: 
+Lower-layer file: BruteForce\BruteForce\Lower_Layer\ftp_hydra.txt
+Lower-layer rows: 600
+Lower-layer time column:  "timestamp": 1751030178797
+Lower-layer time min:  "timestamp": 1751030179797
+Lower-layer time max:  "timestamp": 1751030778797
+
+----------------------------------------------------------------------------------------------------
+
+Category: DDoS
+Status: ok
+PCAP: DDOS\DDOS\Network_Layer\ddos_icmp_hping3.pcap
+PCAP size: 213.82 MB
+Packets: 409 k
+PCAP first packet: 
+PCAP last packet: 
+Lower-layer file: DDOS\DDOS\Lower_Layer\ddos_icmp_hping3.txt
+Lower-layer rows: 1499
+Lower-layer time column:  "timestamp": 1751364899238
+Lower-layer time min:  "timestamp": 1751364899238
+Lower-layer time max:  "timestamp": 1751365398308
+
+----------------------------------------------------------------------------------------------------
+
+Category: DoS
+Status: ok
+PCAP: DoS\DoS\Network_Layer\slowloris.pcap
+PCAP size: 605.47 MB
+Packets: 2726 k
+PCAP first packet: 
+PCAP last packet: 
+Lower-layer file: DoS\DoS\Lower_Layer\slowloris.txt
+Lower-layer rows: 1006
+Lower-layer time column: 
+Lower-layer time min: 
+Lower-layer time max: 
+
+----------------------------------------------------------------------------------------------------
+
+Category: Probe
+Status: ok
+PCAP: Probe\Probe\Network_Layer\portscan_tcp3.pcap
+PCAP size: 27.38 MB
+Packets: 96 k
+PCAP first packet: 
+PCAP last packet: 
+Lower-layer file: Probe\Probe\Lower_Layer\portscan_tcp3.txt
+Lower-layer rows: 230
+Lower-layer time column:  "timestamp": 1750862248647
+Lower-layer time min:  "timestamp": 1750862249647
+Lower-layer time max:  "timestamp": 1750863874849
+
+----------------------------------------------------------------------------------------------------
+
+Category: Web
+Status: ok
+PCAP: Web\Web\Network_Layer\web_xss.pcap
+PCAP size: 134.01 MB
+Packets: 440 k
+PCAP first packet: 
+PCAP last packet: 
+Lower-layer file: Web\Web\Lower_Layer\web_xss.txt
+Lower-layer rows: 244
+Lower-layer time column:  "timestamp": 1751282193281
+Lower-layer time min:  "timestamp": 1751282194281
+Lower-layer time max:  "timestamp": 1751282437281
+
+----------------------------------------------------------------------------------------------------

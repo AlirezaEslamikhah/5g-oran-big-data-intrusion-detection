@@ -1,0 +1,26 @@
+File name:           C:\Users\aen593\Desktop\Big_Data_Project\archive\Probe\Probe\Network_Layer\portscan_tcp3.pcap
+File type:           Wireshark/tcpdump/... - pcap
+File encapsulation:  Linux cooked-mode capture v1
+File timestamp precision:  microseconds (6)
+Packet size limit:   file hdr: 262144 bytes
+Number of packets:   96 k
+File size:           28 MB
+Data size:           27 MB
+Capture duration:    55.861000 seconds
+Earliest packet time: 2025-06-25 08:54:20.915041
+Latest packet time:   2025-06-25 08:55:16.776041
+Data byte rate:      486 kBps
+Data bit rate:       3890 kbps
+Average packet size: 282.26 bytes
+Average packet rate: 1722 packets/s
+SHA256:              61074816642a02946061ab158106dd62bbf15c1473afb0bfd977aaeb8288fd8e
+SHA1:                fc640181c3f35c58edffb80ed1fc45573e49736a
+Strict time order:   False
+Number of interfaces in file: 1
+Interface #0 info:
+                     Encapsulation = Linux cooked-mode capture v1 (25 - linux-sll)
+                     Capture length = 262144
+                     Time precision = microseconds (6)
+                     Time ticks per second = 1000000
+                     Number of stat entries = 0
+                     Number of packets = 96247

@@ -1,0 +1,49 @@
+File: C:\Users\aen593\Desktop\Big_Data_Project\archive\DoS\DoS\Lower_Layer\slowloris.txt
+Rows: 1,006
+Columns: 18
+Parsing: {'sep': None, 'engine': 'python'}
+
+Columns:
+  - {"dlBytes": 14373873 (object)
+  -  "dlMcs": 13 (object)
+  -  "dlBler": 0.006461 (object)
+  -  "ulBytes": 78894177 (object)
+  -  "ulMcs": 11 (object)
+  -  "ulBler": 0.012333 (object)
+  -  "ri": 1 (object)
+  -  "pmi_0": 0 (object)
+  -  "pmi_1": 0 (object)
+  -  "phr": 27 (object)
+  -  "pcmax": 24 (object)
+  -  "rsrq": -10.5 (object)
+  -  "sinr": 23.5 (object)
+  -  "rsrp": -100 (object)
+  -  "rssi": -70.4 (object)
+  -  "cqi": 15 (object)
+  -  "pucchSnr": 19.0 (object)
+  -  "puschSnr": 19.0} (object)
+
+Detected time column: None
+Time minimum: 
+Time maximum: 
+
+Missing values:
+{"dlBytes": 14373873    0
+ "dlMcs": 13            0
+ "dlBler": 0.006461     0
+ "ulBytes": 78894177    0
+ "ulMcs": 11            0
+ "ulBler": 0.012333     0
+ "ri": 1                0
+ "pmi_0": 0             0
+ "pmi_1": 0             0
+ "phr": 27              0
+ "pcmax": 24            0
+ "rsrq": -10.5          0
+ "sinr": 23.5           0
+ "rsrp": -100           0
+ "rssi": -70.4          0
+ "cqi": 15              0
+ "pucchSnr": 19.0       0
+ "puschSnr": 19.0}      0
+dtype: int64

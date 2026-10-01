@@ -1,0 +1,26 @@
+File name:           C:\Users\aen593\Desktop\Big_Data_Project\archive\Web\Web\Network_Layer\web_xss.pcap
+File type:           Wireshark/tcpdump/... - pcap
+File encapsulation:  Linux cooked-mode capture v1
+File timestamp precision:  microseconds (6)
+Packet size limit:   file hdr: 262144 bytes
+Number of packets:   440 k
+File size:           140 MB
+Data size:           133 MB
+Capture duration:    243.840014 seconds
+Earliest packet time: 2025-06-30 05:16:37.477566
+Latest packet time:   2025-06-30 05:20:41.317580
+Data byte rate:      547 kBps
+Data bit rate:       4379 kbps
+Average packet size: 303.33 bytes
+Average packet rate: 1804 packets/s
+SHA256:              1ab7562e44fd72c80a8850ae9e57512d95b9300f34d474b1a64fe1434ff0ddd5
+SHA1:                a64320a9bba0e9eeee2c75960451678ca8139b35
+Strict time order:   False
+Number of interfaces in file: 1
+Interface #0 info:
+                     Encapsulation = Linux cooked-mode capture v1 (25 - linux-sll)
+                     Capture length = 262144
+                     Time precision = microseconds (6)
+                     Time ticks per second = 1000000
+                     Number of stat entries = 0
+                     Number of packets = 440052

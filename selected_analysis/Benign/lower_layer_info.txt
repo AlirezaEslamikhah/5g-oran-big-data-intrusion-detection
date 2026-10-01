@@ -1,0 +1,59 @@
+File: C:\Users\aen593\Desktop\Big_Data_Project\archive\Benign\Benign\Lower_Layer\benign.txt
+Rows: 2,356
+Columns: 23
+Parsing: {'sep': None, 'engine': 'python'}
+
+Columns:
+  - {"ue_id": 2 (object)
+  -  "timestamp": 1751374264245 (object)
+  -  "cellid": 11111111 (object)
+  -  "in_sync": 1 (object)
+  -  "rnti": "097a" (object)
+  -  "dlBytes": 541944552 (object)
+  -  "dlMcs": 23 (object)
+  -  "dlBler": 0.064554 (object)
+  -  "ulBytes": 821528571 (object)
+  -  "ulMcs": 11 (object)
+  -  "ulBler": 0.161862 (object)
+  -  "ri": 1 (object)
+  -  "pmi_0": 0 (object)
+  -  "pmi_1": 0 (object)
+  -  "phr": 25 (object)
+  -  "pcmax": 23 (object)
+  -  "rsrq": -10.5 (object)
+  -  "sinr": 23.0 (object)
+  -  "rsrp": -94 (object)
+  -  "rssi": -75.8 (object)
+  -  "cqi": 15 (object)
+  -  "pucchSnr": 20.0 (object)
+  -  "puschSnr": 22.0} (object)
+
+Detected time column:  "timestamp": 1751374264245
+Time minimum:  "timestamp": 1751374264245
+Time maximum:  "timestamp": 1751375357835
+
+Missing values:
+{"ue_id": 2                    0
+ "timestamp": 1751374264245    0
+ "cellid": 11111111            0
+ "in_sync": 1                  0
+ "rnti": "097a"                0
+ "dlBytes": 541944552          0
+ "dlMcs": 23                   0
+ "dlBler": 0.064554            0
+ "ulBytes": 821528571          0
+ "ulMcs": 11                   0
+ "ulBler": 0.161862            0
+ "ri": 1                       0
+ "pmi_0": 0                    0
+ "pmi_1": 0                    0
+ "phr": 25                     0
+ "pcmax": 23                   0
+ "rsrq": -10.5                 0
+ "sinr": 23.0                  0
+ "rsrp": -94                   0
+ "rssi": -75.8                 0
+ "cqi": 15                     0
+ "pucchSnr": 20.0              0
+ "puschSnr": 22.0}             0
+dtype: int64

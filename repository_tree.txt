@@ -1,0 +1,635 @@
+====================================================================================================
+DATASET / REPOSITORY TREE
+====================================================================================================
+Root       : C:\Users\aen593\Desktop\Big_Data_Project\archive
+Total files: 320
+Total size : 135.93 GB
+
+archive/
+├── Attack (Legacy) Version 1/ [44.18 GB, 220 files]
+│   ├── Attack Filtered/ [17.09 GB, 105 files]
+│   │   └── Filtered/ [17.09 GB, 105 files]
+│   │       ├── filteredBenign1.csv [956.33 KB]
+│   │       ├── filteredBenign1.pcap [743.61 KB]
+│   │       ├── filteredBenign1flow.csv [613.00 B]
+│   │       ├── filteredBenign2.csv [1.11 MB]
+│   │       ├── filteredBenign2.pcap [1013.11 KB]
+│   │       ├── filteredBenign2flow.csv [958.00 B]
+│   │       ├── filteredBenign3.csv [1.30 MB]
+│   │       ├── filteredBenign3.pcap [1.15 MB]
+│   │       ├── filteredBenign3flow.csv [881.00 B]
+│   │       ├── filteredBenign4.csv [64.24 MB]
+│   │       ├── filteredBenign4.pcap [461.92 MB]
+│   │       ├── filteredBenign4flow.csv [2.18 KB]
+│   │       ├── filteredBenign5.csv [138.51 MB]
+│   │       ├── filteredBenign5.pcap [1.13 GB]
+│   │       ├── filteredBenign5flow.csv [1.33 KB]
+│   │       ├── filteredBenign6.csv [158.10 MB]
+│   │       ├── filteredBenign6.pcap [1.34 GB]
+│   │       ├── filteredBenign6flow.csv [1.78 KB]
+│   │       ├── filteredDDOSICMP1.csv [9.00 MB]
+│   │       ├── filteredDDOSICMP1.pcap [4.56 MB]
+│   │       ├── filteredDDOSICMP1flow.csv [234.00 B]
+│   │       ├── filteredDDOSICMP2.csv [45.20 MB]
+│   │       ├── filteredDDOSICMP2.pcap [22.89 MB]
+│   │       ├── filteredDDOSICMP2flow.csv [235.00 B]
+│   │       ├── filteredDDOSICMP3.csv [89.21 MB]
+│   │       ├── filteredDDOSICMP3.pcap [45.17 MB]
+│   │       ├── filteredDDOSICMP3flow.csv [236.00 B]
+│   │       ├── filteredDDOSSYN1.csv [17.86 MB]
+│   │       ├── filteredDDOSSYN1.pcap [8.62 MB]
+│   │       ├── filteredDDOSSYN1flow.csv [255.12 KB]
+│   │       ├── filteredDDOSSYN2.csv [190.11 MB]
+│   │       ├── filteredDDOSSYN2.pcap [90.97 MB]
+│   │       ├── filteredDDOSSYN2flow.csv [3.17 MB]
+│   │       ├── filteredDDOSSYN3.csv [364.82 MB]
+│   │       ├── filteredDDOSSYN3.pcap [174.43 MB]
+│   │       ├── filteredDDOSSYN3flow.csv [5.68 MB]
+│   │       ├── filteredDDOSTCP1.csv [61.37 MB]
+│   │       ├── filteredDDOSTCP1.pcap [29.53 MB]
+│   │       ├── filteredDDOSTCP1flow.csv [5.52 KB]
+│   │       ├── filteredDDOSTCP2.csv [52.07 MB]
+│   │       ├── filteredDDOSTCP2.pcap [25.18 MB]
+│   │       ├── filteredDDOSTCP2flow.csv [235.00 B]
+│   │       ├── filteredDDOSTCP3.csv [104.14 MB]
+│   │       ├── filteredDDOSTCP3.pcap [50.35 MB]
+│   │       ├── filteredDDOSTCP3flow.csv [236.00 B]
+│   │       ├── filteredDDOSUDP1.csv [17.13 MB]
+│   │       ├── filteredDDOSUDP1.pcap [8.18 MB]
+│   │       ├── filteredDDOSUDP1flow.csv [633.00 B]
+│   │       ├── filteredDDOSUDP2.csv [186.92 MB]
+│   │       ├── filteredDDOSUDP2.pcap [89.26 MB]
+│   │       ├── filteredDDOSUDP2flow.csv [518.00 B]
+│   │       ├── filteredDDOSUDP3.csv [69.90 MB]
+│   │       ├── filteredDDOSUDP3.pcap [33.76 MB]
+│   │       ├── filteredDDOSUDP3flow.csv [375.00 B]
+│   │       ├── filteredICMP1.csv [188.35 MB]
+│   │       ├── filteredICMP1.pcap [305.05 MB]
+│   │       ├── filteredICMP1flow.csv [489.00 B]
+│   │       ├── filteredICMP2.csv [756.54 MB]
+│   │       ├── filteredICMP2.pcap [1.32 GB]
+│   │       ├── filteredICMP2flow.csv [514.00 B]
+│   │       ├── filteredICMP3.csv [346.78 MB]
+│   │       ├── filteredICMP3.pcap [1.01 GB]
+│   │       ├── filteredICMP3flow.csv [705.00 B]
+│   │       ├── filteredPortScan1.csv [2.01 MB]
+│   │       ├── filteredPortScan1.pcap [1.13 MB]
+│   │       ├── filteredPortScan1flow.csv [203.60 KB]
+│   │       ├── filteredPortScan2.csv [2.01 MB]
+│   │       ├── filteredPortScan2.pcap [1.13 MB]
+│   │       ├── filteredPortScan2flow.csv [203.72 KB]
+│   │       ├── filteredPortScan3.csv [2.01 MB]
+│   │       ├── filteredPortScan3.pcap [1.13 MB]
+│   │       ├── filteredPortScan3flow.csv [203.60 KB]
+│   │       ├── filteredSYN1.csv [1017.56 MB]
+│   │       ├── filteredSYN1.pcap [491.29 MB]
+│   │       ├── filteredSYN1flow.csv [293.00 B]
+│   │       ├── filteredSYN2.csv [1.01 GB]
+│   │       ├── filteredSYN2.pcap [501.24 MB]
+│   │       ├── filteredSYN2flow.csv [293.00 B]
+│   │       ├── filteredSYN3.csv [984.99 MB]
+│   │       ├── filteredSYN3.pcap [475.45 MB]
+│   │       ├── filteredSYN3flow.csv [293.00 B]
+│   │       ├── filteredTCP1.csv [7.29 MB]
+│   │       ├── filteredTCP1.pcap [3.75 MB]
+│   │       ├── filteredTCP1flow.csv [406.34 KB]
+│   │       ├── filteredTCP2.csv [13.10 MB]
+│   │       ├── filteredTCP2.pcap [6.71 MB]
+│   │       ├── filteredTCP2flow.csv [732.12 KB]
+│   │       ├── filteredTCP3.csv [22.70 MB]
+│   │       ├── filteredTCP3.pcap [11.62 MB]
+│   │       ├── filteredTCP3flow.csv [1.24 MB]
+│   │       ├── filteredUDP1.csv [104.77 MB]
+│   │       ├── filteredUDP1.pcap [562.38 MB]
+│   │       ├── filteredUDP1flow.csv [516.00 B]
+│   │       ├── filteredUDP2.csv [152.66 MB]
+│   │       ├── filteredUDP2.pcap [819.47 MB]
+│   │       ├── filteredUDP2flow.csv [470.00 B]
+│   │       ├── filteredUDP3.csv [164.39 MB]
+│   │       ├── filteredUDP3.pcap [882.24 MB]
+│   │       ├── filteredUDP3flow.csv [546.00 B]
+│   │       ├── filteredUDP4.csv [62.87 MB]
+│   │       ├── filteredUDP4.pcap [337.32 MB]
+│   │       ├── filteredUDP4flow.csv [478.00 B]
+│   │       ├── filteredUDP5.csv [108.56 MB]
+│   │       ├── filteredUDP5.pcap [582.54 MB]
+│   │       └── filteredUDP5flow.csv [974.00 B]
+│   ├── Attacks original/ [27.07 GB, 111 files]
+│   │   └── Attacks/ [27.07 GB, 111 files]
+│   │       ├── Benign Traffic/ [10.28 GB, 18 files]
+│   │       │   ├── Benign1.csv [29.48 KB]
+│   │       │   ├── Benign1.json [75.53 KB]
+│   │       │   ├── Benign1_youtube_download_120seconds.pcapng [697.47 MB]
+│   │       │   ├── Benign2.csv [68.06 KB]
+│   │       │   ├── Benign2.json [173.05 KB]
+│   │       │   ├── Benign2_youtube_download_5minutes.pcapng [1.49 GB]
+│   │       │   ├── Benign3.csv [70.67 KB]
+│   │       │   ├── Benign3.json [179.60 KB]
+│   │       │   ├── Benign3_youtube_userwork_5minutes.pcapng [1.30 GB]
+│   │       │   ├── Benign4.csv [71.66 KB]
+│   │       │   ├── Benign4.json [181.32 KB]
+│   │       │   ├── Benign4_download_iperf_5mins.pcapng [1.93 GB]
+│   │       │   ├── Benign5.csv [36.75 KB]
+│   │       │   ├── Benign5.json [92.86 KB]
+│   │       │   ├── Benign5_download_iperf_2mins.pcapng [2.51 GB]
+│   │       │   ├── Benign6.csv [71.01 KB]
+│   │       │   ├── Benign6.json [180.31 KB]
+│   │       │   └── Benign6_youtube_download_iperf_5mins.pcapng [2.37 GB]
+│   │       ├── ICMP Flood/ [3.94 GB, 19 files]
+│   │       │   ├── .ipynb_checkpoints/ [30.58 KB, 1 files]
+│   │       │   │   └── ICMP1-checkpoint.json [30.58 KB]
+│   │       │   ├── DDOS_ICMP1.csv [27.58 KB]
+│   │       │   ├── DDOS_ICMP1.json [71.11 KB]
+│   │       │   ├── DDOS_ICMP1_seconds100_rate100.pcapng [89.14 MB]
+│   │       │   ├── DDOS_ICMP2.csv [25.83 KB]
+│   │       │   ├── DDOS_ICMP2.json [67.20 KB]
+│   │       │   ├── DDOS_ICMP2_seconds100_rate500.pcapng [189.21 MB]
+│   │       │   ├── DDOS_ICMP3.csv [26.06 KB]
+│   │       │   ├── DDOS_ICMP3.json [67.07 KB]
+│   │       │   ├── DDOS_ICMP3_seconds100_rate1000.pcapng [302.35 MB]
+│   │       │   ├── ICMP1.csv [12.21 KB]
+│   │       │   ├── ICMP1.json [30.58 KB]
+│   │       │   ├── ICMP1_seconds120_thread1.pcapng [518.96 MB]
+│   │       │   ├── ICMP2.csv [14.75 KB]
+│   │       │   ├── ICMP2.json [37.08 KB]
+│   │       │   ├── ICMP2_seconds120_threads2.pcapng [1.62 GB]
+│   │       │   ├── ICMP3.csv [92.00 B]
+│   │       │   ├── ICMP3.json [38.40 KB]
+│   │       │   └── ICMP3_seconds120_threads3.pcapng [1.25 GB]
+│   │       ├── Port Scans/ [3.04 GB, 9 files]
+│   │       │   ├── PortScan1.csv [1.22 KB]
+│   │       │   ├── PortScan1.json [2.70 KB]
+│   │       │   ├── PortScan1_rate5000_retries10.pcapng [1.06 GB]
+│   │       │   ├── PortScan2.csv [1.22 KB]
+│   │       │   ├── PortScan2.json [2.71 KB]
+│   │       │   ├── PortScan2_rate5000_retries50.pcapng [991.42 MB]
+│   │       │   ├── PortScan3.csv [1.10 KB]
+│   │       │   ├── PortScan3.json [2.40 KB]
+│   │       │   └── PortScan3_rate10000_retries100.pcapng [1.01 GB]
+│   │       ├── Syn Flood/ [3.94 GB, 21 files]
+│   │       │   ├── .ipynb_checkpoints/ [89.80 KB, 3 files]
+│   │       │   │   ├── SYN1-checkpoint.csv [15.05 KB]
+│   │       │   │   ├── SYN1-checkpoint.json [37.55 KB]
+│   │       │   │   └── SYN2-checkpoint.json [37.20 KB]
+│   │       │   ├── DDOS_SYN1.csv [24.86 KB]
+│   │       │   ├── DDOS_SYN1.json [63.00 KB]
+│   │       │   ├── DDOS_SYN1_seconds100_rate100.pcapng [79.59 MB]
+│   │       │   ├── DDOS_SYN2.csv [26.34 KB]
+│   │       │   ├── DDOS_SYN2.json [66.28 KB]
+│   │       │   ├── DDOS_SYN2_seconds100_rate500.pcapng [223.60 MB]
+│   │       │   ├── DDOS_SYN3.csv [27.64 KB]
+│   │       │   ├── DDOS_SYN3.json [68.66 KB]
+│   │       │   ├── DDOS_SYN3_seconds100_rate1000.pcapng [324.76 MB]
+│   │       │   ├── SYN1.csv [15.05 KB]
+│   │       │   ├── SYN1.json [37.55 KB]
+│   │       │   ├── SYN1_seconds120_threads1.pcapng [1.11 GB]
+│   │       │   ├── SYN2.csv [14.88 KB]
+│   │       │   ├── SYN2.json [37.20 KB]
+│   │       │   ├── SYN2_seconds120_threads2.pcapng [1.13 GB]
+│   │       │   ├── SYN3.csv [68.00 B]
+│   │       │   ├── SYN3.json [37.03 KB]
+│   │       │   └── SYN3_seconds120_threads3.pcapng [1.08 GB]
+│   │       ├── TCP Flood/ [801.26 MB, 19 files]
+│   │       │   ├── .ipynb_checkpoints/ [14.79 KB, 1 files]
+│   │       │   │   └── TCP2-checkpoint.csv [14.79 KB]
+│   │       │   ├── DDOS_TCP1.csv [25.47 KB]
+│   │       │   ├── DDOS_TCP1.json [63.61 KB]
+│   │       │   ├── DDOS_TCP1_seconds100_rate100.pcapng [142.86 MB]
+│   │       │   ├── DDOS_TCP2.csv [25.97 KB]
+│   │       │   ├── DDOS_TCP2.json [66.99 KB]
+│   │       │   ├── DDOS_TCP2_seconds100_rate500.pcapng [183.84 MB]
+│   │       │   ├── DDOS_TCP3.csv [26.60 KB]
+│   │       │   ├── DDOS_TCP3.json [68.34 KB]
+│   │       │   ├── DDOS_TCP3_seconds100_rate1000.pcapng [305.22 MB]
+│   │       │   ├── TCP1.csv [15.02 KB]
+│   │       │   ├── TCP1.json [37.35 KB]
+│   │       │   ├── TCP1_seconds120_threads1.pcapng [50.45 MB]
+│   │       │   ├── TCP2.csv [14.79 KB]
+│   │       │   ├── TCP2.json [36.94 KB]
+│   │       │   ├── TCP2_seconds120_threads2.pcapng [57.82 MB]
+│   │       │   ├── TCP3.csv [14.96 KB]
+│   │       │   ├── TCP3.json [37.11 KB]
+│   │       │   └── TCP3_seconds120_threads3.pcapng [60.62 MB]
+│   │       └── UDP Flood/ [5.09 GB, 25 files]
+│   │           ├── .ipynb_checkpoints/ [36.98 KB, 1 files]
+│   │           │   └── UDP3-checkpoint.json [36.98 KB]
+│   │           ├── DDOS_UDP1.csv [28.27 KB]
+│   │           ├── DDOS_UDP1.json [74.50 KB]
+│   │           ├── DDOS_UDP1_seconds100_rate100.pcapng [219.88 MB]
+│   │           ├── DDOS_UDP2.csv [26.27 KB]
+│   │           ├── DDOS_UDP2.json [67.47 KB]
+│   │           ├── DDOS_UDP2_seconds100_rate1000.pcapng [338.15 MB]
+│   │           ├── DDOS_UDP3.csv [25.21 KB]
+│   │           ├── DDOS_UDP3.json [65.33 KB]
+│   │           ├── DDOS_UDP3_seconds100_rate500.pcapng [143.55 MB]
+│   │           ├── UDP1.csv [14.81 KB]
+│   │           ├── UDP1.json [37.32 KB]
+│   │           ├── UDP1_seconds120_threads1.pcapng [1.23 GB]
+│   │           ├── UDP2.csv [14.93 KB]
+│   │           ├── UDP2.json [37.26 KB]
+│   │           ├── UDP2_seconds120_threads2.pcapng [1013.21 MB]
+│   │           ├── UDP3.csv [14.65 KB]
+│   │           ├── UDP3.json [36.98 KB]
+│   │           ├── UDP3_seconds120_threads1.pcapng [1.06 GB]
+│   │           ├── UDP4.csv [13.16 KB]
+│   │           ├── UDP4.json [34.41 KB]
+│   │           ├── UDP4_seconds120_threads2.pcapng [427.11 MB]
+│   │           ├── UDP5.csv [14.17 KB]
+│   │           ├── UDP5.json [36.86 KB]
+│   │           └── UDP5_seconds120_threads3.pcapng [725.42 MB]
+│   ├── 5G-NL-IDD_Higher_Layer_Network_Data.db [15.24 MB]
+│   ├── 5G-NL-IDD_Radio_Telemetry.db [0.00 B]
+│   ├── after_analysis_radio_telemetry.csv [560.20 KB]
+│   └── cleaned_radio_telemetry.csv [654.91 KB]
+├── Benign/ [28.16 GB, 20 files]
+│   └── Benign/ [28.16 GB, 20 files]
+│       ├── Lower_Layer/ [3.79 MB, 12 files]
+│       │   ├── benign.txt [824.82 KB]
+│       │   ├── benign_1.txt [306.57 KB]
+│       │   ├── benign_10.txt [238.62 KB]
+│       │   ├── benign_2.txt [297.66 KB]
+│       │   ├── benign_3.txt [134.92 KB]
+│       │   ├── benign_4.txt [312.28 KB]
+│       │   ├── benign_5.txt [297.27 KB]
+│       │   ├── benign_6.txt [307.07 KB]
+│       │   ├── benign_7.txt [325.78 KB]
+│       │   ├── benign_8.txt [516.49 KB]
+│       │   ├── benign_9.txt [306.28 KB]
+│       │   └── benign_test.txt [8.98 KB]
+│       └── Network_data/ [28.15 GB, 8 files]
+│           ├── benign.pcap [67.81 MB]
+│           ├── benign_1.pcap [1.83 GB]
+│           ├── benign_2.pcap [4.74 GB]
+│           ├── benign_3.pcap [456.86 MB]
+│           ├── benign_4.pcap [6.77 GB]
+│           ├── benign_5.pcap [3.87 GB]
+│           ├── benign_6.pcap [3.81 GB]
+│           └── iperf_benign.pcap [6.62 GB]
+├── BruteForce/ [15.92 GB, 9 files]
+│   └── BruteForce/ [15.92 GB, 9 files]
+│       ├── Higher_Layer/ [15.92 GB, 5 files]
+│       │   ├── ftp_hydra.pcap [384.83 MB]
+│       │   ├── ftp_medusa.pcap [390.72 MB]
+│       │   ├── ssh_hydra.pcap [9.14 GB]
+│       │   ├── ssh_hydra2.pcap [3.82 GB]
+│       │   └── ssh_medusa.pcap [2.19 GB]
+│       └── Lower_Layer/ [1.06 MB, 4 files]
+│           ├── ftp_hydra.txt [212.69 KB]
+│           ├── ftp_medusa.txt [281.03 KB]
+│           ├── ssh_hydra.txt [327.97 KB]
+│           └── ssh_medusa.txt [263.99 KB]
+├── DDOS/ [15.67 GB, 18 files]
+│   └── DDOS/ [15.67 GB, 18 files]
+│       ├── Lower_Layer/ [5.13 MB, 9 files]
+│       │   ├── ddos_ack_hping3.txt [299.95 KB]
+│       │   ├── ddos_ack_nping.txt [376.09 KB]
+│       │   ├── ddos_icmp_hping3.txt [523.32 KB]
+│       │   ├── ddos_icmp_nping.txt [627.20 KB]
+│       │   ├── ddos_slowloris.txt [638.70 KB]
+│       │   ├── ddos_syn_hping3.txt [821.38 KB]
+│       │   ├── ddos_syn_nping.txt [418.78 KB]
+│       │   ├── ddos_udp_hping3.txt [886.52 KB]
+│       │   └── ddos_udp_nping.txt [659.53 KB]
+│       └── Network_Layer/ [15.66 GB, 9 files]
+│           ├── ddos_ack_hping3.pcap [2.95 GB]
+│           ├── ddos_ack_nping.pcap [2.33 GB]
+│           ├── ddos_icmp_hping3.pcap [213.82 MB]
+│           ├── ddos_icmp_nping.pcap [2.40 GB]
+│           ├── ddos_slowloris.pcap [1.90 GB]
+│           ├── ddos_syn_hping3.pcap [1.35 GB]
+│           ├── ddos_syn_nping.pcap [1.69 GB]
+│           ├── ddos_udp_hping3.pcap [426.24 MB]
+│           └── ddos_udp_nping.pcap [2.42 GB]
+├── DoS/ [24.39 GB, 23 files]
+│   └── DoS/ [24.39 GB, 23 files]
+│       ├── Lower_Layer/ [2.44 MB, 10 files]
+│       │   ├── icmp_hping3.txt [295.28 KB]
+│       │   ├── icmp_nping.txt [365.21 KB]
+│       │   ├── slowloris.txt [263.78 KB]
+│       │   ├── slowloris2.txt [383.00 KB]
+│       │   ├── tcp-ack_hping3.txt [169.95 KB]
+│       │   ├── tcp-syn_hping3.txt [203.11 KB]
+│       │   ├── tcp_npig.txt [266.12 KB]
+│       │   ├── tcp_test.txt [32.03 KB]
+│       │   ├── udp_hping3.txt [152.55 KB]
+│       │   └── udp_nping.txt [369.57 KB]
+│       └── Network_Layer/ [24.39 GB, 13 files]
+│           ├── icmp_hping3.pcap [762.57 MB]
+│           ├── icmp_nping.pcap [481.71 MB]
+│           ├── slowloris.pcap [605.47 MB]
+│           ├── slowloris2.pcap [1.80 GB]
+│           ├── syn_hping3.pcap [2.89 GB]
+│           ├── syn_nping.pcap [280.75 MB]
+│           ├── tcp.pcap [97.57 MB]
+│           ├── tcp_ack_hping3.pcap [1.42 GB]
+│           ├── tcp_nping.pcap [506.29 MB]
+│           ├── ucp_hping3_2.pcap [4.54 GB]
+│           ├── udp.pcap [2.45 GB]
+│           ├── udp_hping3.pcap [6.91 GB]
+│           └── udp_nping.pcap [1.72 GB]
+├── Probe/ [2.73 GB, 14 files]
+│   └── Probe/ [2.73 GB, 14 files]
+│       ├── Lower_Layer/ [3.03 MB, 7 files]
+│       │   ├── osfingerprinting_nmap.txt [1.92 MB]
+│       │   ├── osfingerprinting_xprobe2.txt [136.91 KB]
+│       │   ├── portscan_masscan.txt [397.97 KB]
+│       │   ├── portscan_tcp1.txt [116.48 KB]
+│       │   ├── portscan_tcp2.txt [52.28 KB]
+│       │   ├── portscan_tcp3.txt [80.12 KB]
+│       │   └── portscan_udp.txt [350.44 KB]
+│       └── Network_Layer/ [2.72 GB, 7 files]
+│           ├── osfingerprinting_nmap.pcap [474.44 MB]
+│           ├── osfingerprinting_xprobe2.pcap [180.32 MB]
+│           ├── portscan_masscan.pcap [833.01 MB]
+│           ├── portscan_tcp1.pcap [516.53 MB]
+│           ├── portscan_tcp2.pcap [134.00 MB]
+│           ├── portscan_tcp3.pcap [27.38 MB]
+│           └── portscan_udp.pcap [622.03 MB]
+├── Web/ [4.48 GB, 13 files]
+│   └── Web/ [4.48 GB, 13 files]
+│       ├── Lower_Layer/ [1.13 MB, 7 files]
+│       │   ├── web_directory_bruteforce.txt [227.53 KB]
+│       │   ├── web_http.txt [281.48 KB]
+│       │   ├── web_http2.txt [107.19 KB]
+│       │   ├── web_sql_injection.txt [132.51 KB]
+│       │   ├── web_sql_injection2.txt [134.14 KB]
+│       │   ├── web_xss.txt [86.68 KB]
+│       │   └── web_xss2.txt [190.34 KB]
+│       └── Network_Layer/ [4.48 GB, 6 files]
+│           ├── web_directory_bruteforce.pcap [2.47 GB]
+│           ├── web_http.pcap [1.06 GB]
+│           ├── web_http2.pcap [415.99 MB]
+│           ├── web_sql_injection.pcap [171.49 MB]
+│           ├── web_xss.pcap [134.01 MB]
+│           └── web_xss2.pcap [249.95 MB]
+├── Lower_Layer_Data.db [5.15 MB]
+├── Network_Dataset.csv [216.66 MB]
+└── Network_Dataset.db [200.93 MB]
+
+
+====================================================================================================
+TOP-LEVEL SUMMARY
+====================================================================================================
+Attack (Legacy) Version 1               44.18 GB |  220 files | .csv:109, .json:39, .pcap:35, .pcapng:35, .db:2
+Benign                                  28.16 GB |   20 files | .txt:12, .pcap:8
+DoS                                     24.39 GB |   23 files | .pcap:13, .txt:10
+BruteForce                              15.92 GB |    9 files | .pcap:5, .txt:4
+DDOS                                    15.67 GB |   18 files | .txt:9, .pcap:9
+Web                                      4.48 GB |   13 files | .txt:7, .pcap:6
+Probe                                    2.73 GB |   14 files | .txt:7, .pcap:7
+
+ROOT FILES
+----------------------------------------------------------------------------------------------------
+   216.66 MB | Network_Dataset.csv
+   200.93 MB | Network_Dataset.db
+     5.15 MB | Lower_Layer_Data.db
+
+====================================================================================================
+FILE TYPE SUMMARY
+====================================================================================================
+.csv               110 files |      6.62 GB
+.pcap               83 files |    102.01 GB
+.txt                49 files |     16.58 MB
+.json               39 files |      2.30 MB
+.pcapng             35 files |     27.07 GB
+.db                  4 files |    221.32 MB
+
+====================================================================================================
+30 LARGEST FILES
+====================================================================================================
+     9.14 GB | BruteForce\BruteForce\Higher_Layer\ssh_hydra.pcap
+     6.91 GB | DoS\DoS\Network_Layer\udp_hping3.pcap
+     6.77 GB | Benign\Benign\Network_data\benign_4.pcap
+     6.62 GB | Benign\Benign\Network_data\iperf_benign.pcap
+     4.74 GB | Benign\Benign\Network_data\benign_2.pcap
+     4.54 GB | DoS\DoS\Network_Layer\ucp_hping3_2.pcap
+     3.87 GB | Benign\Benign\Network_data\benign_5.pcap
+     3.82 GB | BruteForce\BruteForce\Higher_Layer\ssh_hydra2.pcap
+     3.81 GB | Benign\Benign\Network_data\benign_6.pcap
+     2.95 GB | DDOS\DDOS\Network_Layer\ddos_ack_hping3.pcap
+     2.89 GB | DoS\DoS\Network_Layer\syn_hping3.pcap
+     2.51 GB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign5_download_iperf_2mins.pcapng
+     2.47 GB | Web\Web\Network_Layer\web_directory_bruteforce.pcap
+     2.45 GB | DoS\DoS\Network_Layer\udp.pcap
+     2.42 GB | DDOS\DDOS\Network_Layer\ddos_udp_nping.pcap
+     2.40 GB | DDOS\DDOS\Network_Layer\ddos_icmp_nping.pcap
+     2.37 GB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign6_youtube_download_iperf_5mins.pcapng
+     2.33 GB | DDOS\DDOS\Network_Layer\ddos_ack_nping.pcap
+     2.19 GB | BruteForce\BruteForce\Higher_Layer\ssh_medusa.pcap
+     1.93 GB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign4_download_iperf_5mins.pcapng
+     1.90 GB | DDOS\DDOS\Network_Layer\ddos_slowloris.pcap
+     1.83 GB | Benign\Benign\Network_data\benign_1.pcap
+     1.80 GB | DoS\DoS\Network_Layer\slowloris2.pcap
+     1.72 GB | DoS\DoS\Network_Layer\udp_nping.pcap
+     1.69 GB | DDOS\DDOS\Network_Layer\ddos_syn_nping.pcap
+     1.62 GB | Attack (Legacy) Version 1\Attacks original\Attacks\ICMP Flood\ICMP2_seconds120_threads2.pcapng
+     1.49 GB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign2_youtube_download_5minutes.pcapng
+     1.42 GB | DoS\DoS\Network_Layer\tcp_ack_hping3.pcap
+     1.35 GB | DDOS\DDOS\Network_Layer\ddos_syn_hping3.pcap
+     1.34 GB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign6.pcap
+
+====================================================================================================
+PCAP / PCAPNG FILES BY TOP-LEVEL FOLDER
+====================================================================================================
+
+Attack (Legacy) Version 1 — 70 captures, 37.76 GB
+         2.51 GB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign5_download_iperf_2mins.pcapng
+         2.37 GB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign6_youtube_download_iperf_5mins.pcapng
+         1.93 GB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign4_download_iperf_5mins.pcapng
+         1.62 GB | Attack (Legacy) Version 1\Attacks original\Attacks\ICMP Flood\ICMP2_seconds120_threads2.pcapng
+         1.49 GB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign2_youtube_download_5minutes.pcapng
+
+Benign — 8 captures, 28.15 GB
+         6.77 GB | Benign\Benign\Network_data\benign_4.pcap
+         6.62 GB | Benign\Benign\Network_data\iperf_benign.pcap
+         4.74 GB | Benign\Benign\Network_data\benign_2.pcap
+         3.87 GB | Benign\Benign\Network_data\benign_5.pcap
+         3.81 GB | Benign\Benign\Network_data\benign_6.pcap
+
+DoS — 13 captures, 24.39 GB
+         6.91 GB | DoS\DoS\Network_Layer\udp_hping3.pcap
+         4.54 GB | DoS\DoS\Network_Layer\ucp_hping3_2.pcap
+         2.89 GB | DoS\DoS\Network_Layer\syn_hping3.pcap
+         2.45 GB | DoS\DoS\Network_Layer\udp.pcap
+         1.80 GB | DoS\DoS\Network_Layer\slowloris2.pcap
+
+BruteForce — 5 captures, 15.92 GB
+         9.14 GB | BruteForce\BruteForce\Higher_Layer\ssh_hydra.pcap
+         3.82 GB | BruteForce\BruteForce\Higher_Layer\ssh_hydra2.pcap
+         2.19 GB | BruteForce\BruteForce\Higher_Layer\ssh_medusa.pcap
+       390.72 MB | BruteForce\BruteForce\Higher_Layer\ftp_medusa.pcap
+       384.83 MB | BruteForce\BruteForce\Higher_Layer\ftp_hydra.pcap
+
+DDOS — 9 captures, 15.66 GB
+         2.95 GB | DDOS\DDOS\Network_Layer\ddos_ack_hping3.pcap
+         2.42 GB | DDOS\DDOS\Network_Layer\ddos_udp_nping.pcap
+         2.40 GB | DDOS\DDOS\Network_Layer\ddos_icmp_nping.pcap
+         2.33 GB | DDOS\DDOS\Network_Layer\ddos_ack_nping.pcap
+         1.90 GB | DDOS\DDOS\Network_Layer\ddos_slowloris.pcap
+
+Web — 6 captures, 4.48 GB
+         2.47 GB | Web\Web\Network_Layer\web_directory_bruteforce.pcap
+         1.06 GB | Web\Web\Network_Layer\web_http.pcap
+       415.99 MB | Web\Web\Network_Layer\web_http2.pcap
+       249.95 MB | Web\Web\Network_Layer\web_xss2.pcap
+       171.49 MB | Web\Web\Network_Layer\web_sql_injection.pcap
+
+Probe — 7 captures, 2.72 GB
+       833.01 MB | Probe\Probe\Network_Layer\portscan_masscan.pcap
+       622.03 MB | Probe\Probe\Network_Layer\portscan_udp.pcap
+       516.53 MB | Probe\Probe\Network_Layer\portscan_tcp1.pcap
+       474.44 MB | Probe\Probe\Network_Layer\osfingerprinting_nmap.pcap
+       180.32 MB | Probe\Probe\Network_Layer\osfingerprinting_xprobe2.pcap
+
+====================================================================================================
+CSV / DB FILES
+====================================================================================================
+.csv     |      1.01 GB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredSYN2.csv
+.csv     |   1017.56 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredSYN1.csv
+.csv     |    984.99 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredSYN3.csv
+.csv     |    756.54 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredICMP2.csv
+.csv     |    364.82 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSSYN3.csv
+.csv     |    346.78 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredICMP3.csv
+.csv     |    216.66 MB | Network_Dataset.csv
+.csv     |    190.11 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSSYN2.csv
+.csv     |    188.35 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredICMP1.csv
+.csv     |    186.92 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSUDP2.csv
+.csv     |    164.39 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredUDP3.csv
+.csv     |    158.10 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign6.csv
+.csv     |    152.66 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredUDP2.csv
+.csv     |    138.51 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign5.csv
+.csv     |    108.56 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredUDP5.csv
+.csv     |    104.77 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredUDP1.csv
+.csv     |    104.14 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSTCP3.csv
+.csv     |     89.21 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSICMP3.csv
+.csv     |     69.90 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSUDP3.csv
+.csv     |     64.24 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign4.csv
+.csv     |     62.87 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredUDP4.csv
+.csv     |     61.37 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSTCP1.csv
+.csv     |     52.07 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSTCP2.csv
+.csv     |     45.20 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSICMP2.csv
+.csv     |     22.70 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredTCP3.csv
+.csv     |     17.86 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSSYN1.csv
+.csv     |     17.13 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSUDP1.csv
+.csv     |     13.10 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredTCP2.csv
+.csv     |      9.00 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSICMP1.csv
+.csv     |      7.29 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredTCP1.csv
+.csv     |      5.68 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSSYN3flow.csv
+.csv     |      3.17 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSSYN2flow.csv
+.csv     |      2.01 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredPortScan2.csv
+.csv     |      2.01 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredPortScan3.csv
+.csv     |      2.01 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredPortScan1.csv
+.csv     |      1.30 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign3.csv
+.csv     |      1.24 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredTCP3flow.csv
+.csv     |      1.11 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign2.csv
+.csv     |    956.33 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign1.csv
+.csv     |    732.12 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredTCP2flow.csv
+.csv     |    654.91 KB | Attack (Legacy) Version 1\cleaned_radio_telemetry.csv
+.csv     |    560.20 KB | Attack (Legacy) Version 1\after_analysis_radio_telemetry.csv
+.csv     |    406.34 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredTCP1flow.csv
+.csv     |    255.12 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSSYN1flow.csv
+.csv     |    203.72 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredPortScan2flow.csv
+.csv     |    203.60 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredPortScan3flow.csv
+.csv     |    203.60 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredPortScan1flow.csv
+.csv     |     71.66 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign4.csv
+.csv     |     71.01 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign6.csv
+.csv     |     70.67 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign3.csv
+.csv     |     68.06 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign2.csv
+.csv     |     36.75 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign5.csv
+.csv     |     29.48 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign1.csv
+.csv     |     28.27 KB | Attack (Legacy) Version 1\Attacks original\Attacks\UDP Flood\DDOS_UDP1.csv
+.csv     |     27.64 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Syn Flood\DDOS_SYN3.csv
+.csv     |     27.58 KB | Attack (Legacy) Version 1\Attacks original\Attacks\ICMP Flood\DDOS_ICMP1.csv
+.csv     |     26.60 KB | Attack (Legacy) Version 1\Attacks original\Attacks\TCP Flood\DDOS_TCP3.csv
+.csv     |     26.34 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Syn Flood\DDOS_SYN2.csv
+.csv     |     26.27 KB | Attack (Legacy) Version 1\Attacks original\Attacks\UDP Flood\DDOS_UDP2.csv
+.csv     |     26.06 KB | Attack (Legacy) Version 1\Attacks original\Attacks\ICMP Flood\DDOS_ICMP3.csv
+.csv     |     25.97 KB | Attack (Legacy) Version 1\Attacks original\Attacks\TCP Flood\DDOS_TCP2.csv
+.csv     |     25.83 KB | Attack (Legacy) Version 1\Attacks original\Attacks\ICMP Flood\DDOS_ICMP2.csv
+.csv     |     25.47 KB | Attack (Legacy) Version 1\Attacks original\Attacks\TCP Flood\DDOS_TCP1.csv
+.csv     |     25.21 KB | Attack (Legacy) Version 1\Attacks original\Attacks\UDP Flood\DDOS_UDP3.csv
+.csv     |     24.86 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Syn Flood\DDOS_SYN1.csv
+.csv     |     15.05 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Syn Flood\.ipynb_checkpoints\SYN1-checkpoint.csv
+.csv     |     15.05 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Syn Flood\SYN1.csv
+.csv     |     15.02 KB | Attack (Legacy) Version 1\Attacks original\Attacks\TCP Flood\TCP1.csv
+.csv     |     14.96 KB | Attack (Legacy) Version 1\Attacks original\Attacks\TCP Flood\TCP3.csv
+.csv     |     14.93 KB | Attack (Legacy) Version 1\Attacks original\Attacks\UDP Flood\UDP2.csv
+.csv     |     14.88 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Syn Flood\SYN2.csv
+.csv     |     14.81 KB | Attack (Legacy) Version 1\Attacks original\Attacks\UDP Flood\UDP1.csv
+.csv     |     14.79 KB | Attack (Legacy) Version 1\Attacks original\Attacks\TCP Flood\.ipynb_checkpoints\TCP2-checkpoint.csv
+.csv     |     14.79 KB | Attack (Legacy) Version 1\Attacks original\Attacks\TCP Flood\TCP2.csv
+.csv     |     14.75 KB | Attack (Legacy) Version 1\Attacks original\Attacks\ICMP Flood\ICMP2.csv
+.csv     |     14.65 KB | Attack (Legacy) Version 1\Attacks original\Attacks\UDP Flood\UDP3.csv
+.csv     |     14.17 KB | Attack (Legacy) Version 1\Attacks original\Attacks\UDP Flood\UDP5.csv
+.csv     |     13.16 KB | Attack (Legacy) Version 1\Attacks original\Attacks\UDP Flood\UDP4.csv
+.csv     |     12.21 KB | Attack (Legacy) Version 1\Attacks original\Attacks\ICMP Flood\ICMP1.csv
+.csv     |      5.52 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSTCP1flow.csv
+.csv     |      2.18 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign4flow.csv
+.csv     |      1.78 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign6flow.csv
+.csv     |      1.33 KB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign5flow.csv
+.csv     |      1.22 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Port Scans\PortScan2.csv
+.csv     |      1.22 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Port Scans\PortScan1.csv
+.csv     |      1.10 KB | Attack (Legacy) Version 1\Attacks original\Attacks\Port Scans\PortScan3.csv
+.csv     |     974.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredUDP5flow.csv
+.csv     |     958.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign2flow.csv
+.csv     |     881.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign3flow.csv
+.csv     |     705.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredICMP3flow.csv
+.csv     |     633.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSUDP1flow.csv
+.csv     |     613.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredBenign1flow.csv
+.csv     |     546.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredUDP3flow.csv
+.csv     |     518.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSUDP2flow.csv
+.csv     |     516.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredUDP1flow.csv
+.csv     |     514.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredICMP2flow.csv
+.csv     |     489.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredICMP1flow.csv
+.csv     |     478.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredUDP4flow.csv
+.csv     |     470.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredUDP2flow.csv
+.csv     |     375.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSUDP3flow.csv
+.csv     |     293.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredSYN1flow.csv
+.csv     |     293.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredSYN2flow.csv
+.csv     |     293.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredSYN3flow.csv
+.csv     |     236.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSICMP3flow.csv
+.csv     |     236.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSTCP3flow.csv
+.csv     |     235.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSICMP2flow.csv
+.csv     |     235.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSTCP2flow.csv
+.csv     |     234.00 B | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredDDOSICMP1flow.csv
+.csv     |      92.00 B | Attack (Legacy) Version 1\Attacks original\Attacks\ICMP Flood\ICMP3.csv
+.csv     |      68.00 B | Attack (Legacy) Version 1\Attacks original\Attacks\Syn Flood\SYN3.csv
+.db      |    200.93 MB | Network_Dataset.db
+.db      |     15.24 MB | Attack (Legacy) Version 1\5G-NL-IDD_Higher_Layer_Network_Data.db
+.db      |      5.15 MB | Lower_Layer_Data.db
+.db      |       0.00 B | Attack (Legacy) Version 1\5G-NL-IDD_Radio_Telemetry.db
+
+====================================================================================================
+SUGGESTED REPRESENTATIVE PCAPS
+====================================================================================================
+These are only candidates based on folder names and size; we will choose after reviewing this output.
+
+Attack (Legacy) Version 1:
+  smaller candidate:      1.13 MB | Attack (Legacy) Version 1\Attack Filtered\Filtered\filteredPortScan1.pcap
+  larger candidate :      2.51 GB | Attack (Legacy) Version 1\Attacks original\Attacks\Benign Traffic\Benign5_download_iperf_2mins.pcapng
+
+Benign:
+  smaller candidate:     67.81 MB | Benign\Benign\Network_data\benign.pcap
+  larger candidate :      6.77 GB | Benign\Benign\Network_data\benign_4.pcap
+
+BruteForce:
+  smaller candidate:    384.83 MB | BruteForce\BruteForce\Higher_Layer\ftp_hydra.pcap
+  larger candidate :      9.14 GB | BruteForce\BruteForce\Higher_Layer\ssh_hydra.pcap
+
+DDOS:
+  smaller candidate:    213.82 MB | DDOS\DDOS\Network_Layer\ddos_icmp_hping3.pcap
+  larger candidate :      2.95 GB | DDOS\DDOS\Network_Layer\ddos_ack_hping3.pcap
+
+DoS:
+  smaller candidate:     97.57 MB | DoS\DoS\Network_Layer\tcp.pcap
+  larger candidate :      6.91 GB | DoS\DoS\Network_Layer\udp_hping3.pcap
+
+Probe:
+  smaller candidate:     27.38 MB | Probe\Probe\Network_Layer\portscan_tcp3.pcap
+  larger candidate :    833.01 MB | Probe\Probe\Network_Layer\portscan_masscan.pcap
+
+Web:
+  smaller candidate:    134.01 MB | Web\Web\Network_Layer\web_xss.pcap
+  larger candidate :      2.47 GB | Web\Web\Network_Layer\web_directory_bruteforce.pcap
+
+Scanned total: 320 files, 135.93 GB

@@ -1,0 +1,59 @@
+File: C:\Users\aen593\Desktop\Big_Data_Project\archive\Probe\Probe\Lower_Layer\portscan_tcp3.txt
+Rows: 230
+Columns: 23
+Parsing: {'sep': None, 'engine': 'python'}
+
+Columns:
+  - {"ue_id": 1 (object)
+  -  "timestamp": 1750862248647 (object)
+  -  "cellid": 11111111 (object)
+  -  "in_sync": 1 (object)
+  -  "rnti": "e41b" (object)
+  -  "dlBytes": 322430946 (object)
+  -  "dlMcs": 10 (object)
+  -  "dlBler": 1.7e-05 (object)
+  -  "ulBytes": 142780152 (object)
+  -  "ulMcs": 10 (object)
+  -  "ulBler": 0.0 (object)
+  -  "ri": 1 (object)
+  -  "pmi_0": 0 (object)
+  -  "pmi_1": 0 (object)
+  -  "phr": 22 (object)
+  -  "pcmax": 24 (object)
+  -  "rsrq": -11.0 (object)
+  -  "sinr": 14.0 (object)
+  -  "rsrp": -100 (object)
+  -  "rssi": -71.0 (object)
+  -  "cqi": 15 (object)
+  -  "pucchSnr": 22.0 (object)
+  -  "puschSnr": 18.5} (object)
+
+Detected time column:  "timestamp": 1750862248647
+Time minimum:  "timestamp": 1750862249647
+Time maximum:  "timestamp": 1750863874849
+
+Missing values:
+{"ue_id": 1                    0
+ "timestamp": 1750862248647    0
+ "cellid": 11111111            0
+ "in_sync": 1                  0
+ "rnti": "e41b"                0
+ "dlBytes": 322430946          0
+ "dlMcs": 10                   0
+ "dlBler": 1.7e-05             0
+ "ulBytes": 142780152          0
+ "ulMcs": 10                   0
+ "ulBler": 0.0                 0
+ "ri": 1                       0
+ "pmi_0": 0                    0
+ "pmi_1": 0                    0
+ "phr": 22                     0
+ "pcmax": 24                   0
+ "rsrq": -11.0                 0
+ "sinr": 14.0                  0
+ "rsrp": -100                  0
+ "rssi": -71.0                 0
+ "cqi": 15                     0
+ "pucchSnr": 22.0              0
+ "puschSnr": 18.5}             0
+dtype: int64

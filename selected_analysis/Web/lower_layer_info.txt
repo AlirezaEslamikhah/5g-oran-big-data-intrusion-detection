@@ -1,0 +1,59 @@
+File: C:\Users\aen593\Desktop\Big_Data_Project\archive\Web\Web\Lower_Layer\web_xss.txt
+Rows: 244
+Columns: 23
+Parsing: {'sep': None, 'engine': 'python'}
+
+Columns:
+  - {"ue_id": 1 (object)
+  -  "timestamp": 1751282193281 (object)
+  -  "cellid": 11111111 (object)
+  -  "in_sync": 1 (object)
+  -  "rnti": "5867" (object)
+  -  "dlBytes": 3941754104 (object)
+  -  "dlMcs": 10 (object)
+  -  "dlBler": 0.000632 (object)
+  -  "ulBytes": 1444022194 (object)
+  -  "ulMcs": 9 (object)
+  -  "ulBler": 1.4e-05 (object)
+  -  "ri": 1 (object)
+  -  "pmi_0": 0 (object)
+  -  "pmi_1": 0 (object)
+  -  "phr": 23 (object)
+  -  "pcmax": 24 (object)
+  -  "rsrq": -11.0 (object)
+  -  "sinr": 13.0 (object)
+  -  "rsrp": -98 (object)
+  -  "rssi": -69.7 (object)
+  -  "cqi": 15 (object)
+  -  "pucchSnr": 22.0 (object)
+  -  "puschSnr": 17.0} (object)
+
+Detected time column:  "timestamp": 1751282193281
+Time minimum:  "timestamp": 1751282194281
+Time maximum:  "timestamp": 1751282437281
+
+Missing values:
+{"ue_id": 1                    0
+ "timestamp": 1751282193281    0
+ "cellid": 11111111            0
+ "in_sync": 1                  0
+ "rnti": "5867"                0
+ "dlBytes": 3941754104         0
+ "dlMcs": 10                   0
+ "dlBler": 0.000632            0
+ "ulBytes": 1444022194         0
+ "ulMcs": 9                    0
+ "ulBler": 1.4e-05             0
+ "ri": 1                       0
+ "pmi_0": 0                    0
+ "pmi_1": 0                    0
+ "phr": 23                     0
+ "pcmax": 24                   0
+ "rsrq": -11.0                 0
+ "sinr": 13.0                  0
+ "rsrp": -98                   0
+ "rssi": -69.7                 0
+ "cqi": 15                     0
+ "pucchSnr": 22.0              0
+ "puschSnr": 17.0}             0
+dtype: int64
